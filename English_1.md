@@ -1,4 +1,9 @@
 # English
+## 2018.10.18
+grit: 勇气
+RSVP:
+meteorologist: 气象学家
+
 These efforts pale in comparison with the B&R, which involves far greater cumulative investments, which are currently anticipated at $ 4 trillion to $ 8 trillion, depending on __timeline and senario estimates__.  
 tacit support of military alliance  
 tenable    untenable:  
