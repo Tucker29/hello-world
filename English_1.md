@@ -1,8 +1,8 @@
 # English
 ## 2018.10.18
-ups and downs
-__scoff__ at the size and budget of its military
-the only system of checks and balances is the world's biggest population __ripe__ for __revolt__ if things slow down.
+ups and downs  
+__scoff__ at the size and budget of its military  
+the only system of checks and balances is the world's biggest population __ripe__ for __revolt__ if things slow down.  
 It makes black mirror look __utopian__, with Social Points determining the train you ride on, and the school your child can attend. 
 with less __red tape__ slowing things down, his words are quick to become reality.
 counter:(n)   (v):=react, response  eg: counter a rival:对抗竞争对手
