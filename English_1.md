@@ -1,7 +1,7 @@
 # English  
 ## 2018.10.21  
-image = transform(image)
-image = image.view(1, iamge.size(0), image.size(1), image.size(2))
+image = transform(image)  
+image = image.view(1, iamge.size(0), image.size(1), image.size(2))  
 注意图片要通过class net， 需要有有四维batch_size, channels, size_len, size_width, 读入的单张图片没有batch_size,所以用.view()函数生成了第一维.  
 
 ## 2018.10.20  
