@@ -1,4 +1,8 @@
 # English
+## 2018.10.20  
+
+nearly __colliding with__ American ships, who it knows would rather back off than __risk escalation__  
+
 ## 2018.10.18
 ups and downs  
 __scoff__ at the size and budget of its military  
