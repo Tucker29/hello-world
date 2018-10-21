@@ -1,8 +1,7 @@
 # English  
 ## 2018.10.21 
-__night owl__夜猫子  
-have a knack for programming: 对编程有诀窍  
-federal jurisdiction: 联邦管辖权  
+Detaining an individual on a hold request from the federal government unless there is a __felony or a warrant.__  
+federal __jurisdiction__: 联邦管辖权  
 It had already warned that cities and states with other similar sanctuary city laws might __lose federal grants__.  
 One statute __bars businesses from cooperating with__ those immigration agencies without a court order, and requires them to alert workers of impending raids.  
 Sessions' new lawsuit __amounts to__ a political show.This is completely unprecedented for the chief law enforcement of the United States to come out here and engage in a __political stunt__政治噱头, make wild accusations, many of which are based on __outright lies__彻头彻尾的谎言.   
