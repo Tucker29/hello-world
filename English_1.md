@@ -1,12 +1,18 @@
 # English  
-## 2018.10.21  
+## 2018.10.21 
+hold the rank of __Major General__ in the army. Her taking on the role of first lady marks a striking change from three decades of __low-profile__ wives of the leader of China. argricultural laborer from a __Marxist philosophy and ideological__ education__马克思主义哲学和思想政治教育__.
+the fact remains flat, Putin is remarkably popular in Russia.  
+It's surged in 2014 after an invasion that shocked the world.  
+One of the planes is vetted by security and refitted with the living room bedroom.  
+the Chinese ambassador to Britain.  
+
 image = transform(image)  
 image = image.view(1, iamge.size(0), image.size(1), image.size(2))  
 注意图片要通过class net， 需要有有四维batch_size, channels, size_len, size_width, 读入的单张图片没有batch_size,所以用.view()函数生成了第一维.  
 
 ## 2018.10.20  
 Audible, the absolute best place to find hight-quality audio books.  
-chaotic:   chaos:注意它的读音
+chaotic:   chaos:注意它的读音  
 __fiscal__:财  
 practiced subtle __cunning__狡猾的 player.  
 super yacht:  
