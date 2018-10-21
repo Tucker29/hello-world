@@ -1,6 +1,23 @@
 # English  
 ## 2018.10.21 
-hold the rank of __Major General__ in the army. Her taking on the role of first lady marks a striking change from three decades of __low-profile__ wives of the leader of China. argricultural laborer from a __Marxist philosophy and ideological__ education__马克思主义哲学和思想政治教育__.
+federal jurisdiction: 联邦管辖权  
+It had already warned that cities and states with other similar sanctuary city laws might __lose federal grants__.  
+One statute __bars businesses from cooperating with__ those immigration agencies without a court order, and requires them to alert workers of impending raids.  
+Sessions' new lawsuit __amounts to__ a political show.This is completely unprecedented for the chief law enforcement of the United States to come out here and engage in a __political stunt__政治噱头, make wild accusations, many of which are based on __outright lies__彻头彻尾的谎言.   
+gas pipline from Caspian sea to China  
+the BRI's __flagship project__: Parkistan, which has a __stagnant__ economy, and a corruption problem.  
+power plants发电厂, mines矿山, fiber optic光纤  
+overland Economic Belt of 6 corridors that serves as new routes to get goods in and out of China
+pretty much the defination of __anarchy__无政府状态的定义.  
+a martime silk road  
+a report found that many coutries __indebted to China__ are volnerable.  
+Parkistan __saw__ its highest GDP growth in 8 years and __forged a tight relationship with__ a major world power.  
+In Sri Lanka, China loaned about 1.5 billion dollar for a new deep-water port
+China has the control of the port as __part of a 99-year lease__.  
+__mandatory  deport/depart: deport:驱逐处境  depart:离开__  
+immigration enforcement:移民执法  
+
+hold the rank of __Major General__ in the army. Her taking on the role of first lady marks a striking change from three decades of __low-profile__ wives of the leader of China. argricultural laborer from a __Marxist philosophy and ideological__ education__马克思主义哲学和思想政治教育__.  
 the fact remains flat, Putin is remarkably popular in Russia.  
 It's surged in 2014 after an invasion that shocked the world.  
 One of the planes is vetted by security and refitted with the living room bedroom.  
