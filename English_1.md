@@ -1,5 +1,6 @@
 # English  
 ## 2018.10.21 
+All unreads puts everyting you've missed in one place, so __catching up__ is as simple as __scrolling__.  
 __night owl__夜猫子  
 have a knack for programming: 对编程有诀窍  
 Detaining an individual on a hold request from the federal government unless there is a __felony or a warrant.__  
