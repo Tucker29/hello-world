@@ -1,5 +1,6 @@
 # English  
 ## 2018.10.21 
+have a knack for programming: 对编程有诀窍  
 federal jurisdiction: 联邦管辖权  
 It had already warned that cities and states with other similar sanctuary city laws might __lose federal grants__.  
 One statute __bars businesses from cooperating with__ those immigration agencies without a court order, and requires them to alert workers of impending raids.  
