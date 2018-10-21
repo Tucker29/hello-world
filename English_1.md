@@ -1,5 +1,7 @@
 # English  
 ## 2018.10.21 
+__night owl__夜猫子  
+have a knack for programming: 对编程有诀窍 
 Detaining an individual on a hold request from the federal government unless there is a __felony or a warrant.__  
 federal __jurisdiction__: 联邦管辖权  
 It had already warned that cities and states with other similar sanctuary city laws might __lose federal grants__.  
