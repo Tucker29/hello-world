@@ -1,6 +1,6 @@
 # English  
 ## 2018.10.22
-## IP: Interllectual Property  
+## IP: Intellectual Property  
 dodge: avoid by a sudden quick movement.  Faker __dodges like a scripter or inhuman dodeges__.
 
 ## 2018.10.21 
