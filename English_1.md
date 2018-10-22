@@ -1,4 +1,8 @@
 # English  
+## 2018.10.22
+## IP: Interllectual Property  
+dodge: avoid by a sudden quick movement.  Faker __dodges like a scripter or inhuman dodeges__.
+
 ## 2018.10.21 
 All unreads puts everyting you've missed in one place, so __catching up__ is as simple as __scrolling__.  
 __night owl__夜猫子  
