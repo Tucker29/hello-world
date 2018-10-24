@@ -1,4 +1,7 @@
 # English  
+## 2018.10.24
+I go to rehearsal for the play or musical, depending on the time of the year.  
+
 ## 2018.10.22
 ## IP: Intellectual Property  
 dodge: avoid by a sudden quick movement.  Faker __dodges like a scripter or inhuman dodeges__.
