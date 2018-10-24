@@ -1,8 +1,13 @@
 # English  
 ## 2018.10.24
+it should be __infeasible__ for anyone to __forge__ the signature.  
 __volume__: 1. the amount of ... usually great. 2. book series.  3: the quantity or power of sound, degree of loudness.  
 __digress__: move away from the subject you're talking.  
 I __go to rehearsal__ for the play or musical, depending on the time of the year.  
+__fradulent__:欺骗的，骗人的  
+there is no cold hard rigorous proof that..  
+defer: 1. put off (an action or event) to a later time;  2.submit humbly to.. 顺从  defer to sb  
+
 
 ## 2018.10.22
 ## IP: Intellectual Property  
