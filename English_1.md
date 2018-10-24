@@ -1,6 +1,7 @@
 # English  
 ## 2018.10.24
-I go to rehearsal for the play or musical, depending on the time of the year.  
+__digress__: move away from the subject you're talking.  
+I __go to rehearsal__ for the play or musical, depending on the time of the year.  
 
 ## 2018.10.22
 ## IP: Intellectual Property  
