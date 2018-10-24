@@ -1,5 +1,6 @@
 # English  
 ## 2018.10.24
+__volume__: 1. the amount of ... usually great. 2. book series.  3: the quantity or power of sound, degree of loudness.  
 __digress__: move away from the subject you're talking.  
 I __go to rehearsal__ for the play or musical, depending on the time of the year.  
 
