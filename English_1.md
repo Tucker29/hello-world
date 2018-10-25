@@ -2,6 +2,11 @@
 ## 2018.10.25
 nuance: a little difference.  
 typo: 错别字 spelling error  eg: a spelling error = a typo  
+tend to get a blurry vision.  
+you're not just sending a generic resume out there.  
+immersive experience: __immersive:(of computer display or system) creating a three-dimentional image that surrounds you.__  
+my jaw hit the floor. 佩服的五体投地.  
+exclusive: 独家
 
 
 ## 2018.10.24
