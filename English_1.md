@@ -1,6 +1,7 @@
 # English  
 ## 2018.10.25
 nuance: a little difference.  
+typo: 错别字 spelling error  eg: a spelling error = a typo  
 
 
 ## 2018.10.24
