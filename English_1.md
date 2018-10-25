@@ -1,4 +1,8 @@
 # English  
+## 2018.10.25
+nuance: a little difference.  
+
+
 ## 2018.10.24
 it should be __infeasible__ for anyone to __forge__ the signature.  
 __volume__: 1. the amount of ... usually great. 2. book series.  3: the quantity or power of sound, degree of loudness.  
