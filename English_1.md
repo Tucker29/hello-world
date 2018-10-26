@@ -1,5 +1,16 @@
 # English  
 ## 2018.10.26
+my alarm goes off/rings.  
+and then I get out of bed.  wake up.  get up: 起来，  go downstairs, go to bathroom:上厕所  go to toilet:英：上厕所。 在美国toilet是马桶的意思。
+After using toilet,  make a cup of tea,  have breakfast, take a shower, comb my hair, brush my hair, get dressed, put on /wear some makeup.
+shave my face.(shave 后面不会接毛发,而是接身体的某个部位:eg: shave my leg:刮腿毛) 
+go to work/drive to work/take the bus/catch the bus    get off work/leave work:下班  
+buy some groceries:买菜, cook dinner,  set the table before eating,  lay the table(英) before eating,  
+do the dishes/wash the dishes,   take out the trash/garbage. rubbish(英)   go out with friend/hang out.  call a friend/your family.
+sleep late/in:睡懒觉，不想起来 __sleep out不是睡得很晚的意思__   oversleep:睡过头  
+
+
+
 dabble: take part in a sport or activity etc, but not seriously.  
 pinnacle: the most important or successful part of sth.  eg: the pinnacle of his career.  
 astound: to surprise or shock sb very much.  
