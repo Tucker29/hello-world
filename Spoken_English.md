@@ -1,4 +1,5 @@
 # 音标
+t --> d  # when t is between two vowels.  
 t + le, ar, er, g    # t --> d  
 s/z + ʃ  == ʃ  
 t, d, l + h     # h 会被弱化  
