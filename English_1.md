@@ -1,6 +1,8 @@
 # English  
 ## 2018.10.27
 paralegal: a person trained by subsidiary legal matters but not fully qualified as a lawyer.  
+consonant: 辅音  
+
 
 
 ## 2018.10.26
