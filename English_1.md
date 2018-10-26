@@ -1,4 +1,8 @@
 # English  
+## 2018.10.27
+paralegal: a person trained by subsidiary legal matters but not fully qualified as a lawyer.  
+
+
 ## 2018.10.26
 my alarm goes off/rings.  
 and then I get out of bed.  wake up.  get up: 起来，  go downstairs, go to bathroom:上厕所  go to toilet:英：上厕所。 在美国toilet是马桶的意思。
