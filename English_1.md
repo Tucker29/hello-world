@@ -1,4 +1,10 @@
 # English  
+## 2018.10.26
+dabble: take part in a sport or activity etc, but not seriously.  
+pinnacle: the most important or successful part of sth.  eg: the pinnacle of his career.  
+astound: to surprise or shock sb very much.  
+
+
 ## 2018.10.25
 nuance: a little difference.  
 typo: 错别字 spelling error  eg: a spelling error = a typo  
