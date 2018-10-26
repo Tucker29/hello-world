@@ -3,7 +3,7 @@
 dabble: take part in a sport or activity etc, but not seriously.  
 pinnacle: the most important or successful part of sth.  eg: the pinnacle of his career.  
 astound: to surprise or shock sb very much.  
-
+In New York Ci__t__y, he wore a swea__t__er tha__t__ always makes hime sa__t__isfied.  
 
 ## 2018.10.25
 nuance: a little difference.  
