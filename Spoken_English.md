@@ -1,6 +1,8 @@
 # 音标
 t --> d  # when t is between two vowels.  
 In New York Ci__t__y, he wore an exci__t__ing swea__t__er tha__t__ always made hime sa__t__isfied.  
+wa__t__er bo__tt__le.  
+
 
 t + le, ar, er, g    # t --> d  
 s/z + ʃ  == ʃ  
