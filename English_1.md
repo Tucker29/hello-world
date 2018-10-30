@@ -1,4 +1,8 @@
 # English  
+## 2018.10.30
+patron: 1.a person who gives financial support to a person, organization, cause, or an activity.  2. a customer, especially of a regular one, especially to a restaurant , a store or a theater.  
+
+
 ## 2018.10.27
 paralegal: a person trained by subsidiary legal matters but not fully qualified as a lawyer.  
 consonant: 辅音  
