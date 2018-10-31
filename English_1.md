@@ -1,4 +1,9 @@
 # English  
+## 2018.11.1
+explicit: 1.unambiguous in expression. 2.fully revealed or expressed without vagueness, implication, or ambiguity.  
+implicit:
+
+
 ## 2018.10.31
 peculiar: 1.strang or odd   2.belong exclusively to someone  
 delusion: delusion of grandeur.  
