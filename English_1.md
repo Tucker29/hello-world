@@ -1,7 +1,10 @@
 # English  
 ## 2018.11.1
 explicit: 1.unambiguous in expression. 2.fully revealed or expressed without vagueness, implication, or ambiguity.  
-implicit:
+implicit:  
+emblem: a heraldic device or symbolic object as a distinctive badge of a nation, organization or family.  
+badge: a distinctive emblem wore as a mark of office, membership, achevement, licensed employment.  
+heraldic: 纹章的
 
 
 ## 2018.10.31
