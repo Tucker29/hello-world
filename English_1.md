@@ -1,4 +1,15 @@
 # English  
+## 2018.10.31
+peculiar: 1.strang or odd   2.belong exclusively to someone  
+delusion: delusion of grandeur.  
+lycanthropy: the assumption of the form of a wolf.  
+delude:  
+delusion: 1. something that is falsely or delusively believed or propagated.  2. the act of tricking or deceiving someone:  the state of being deluded.  
+abominable: causing moral revulsion  
+indisputable evidence:  indisputable: unable to be challenged or denied.  
+在答案中，我们要用 / 2.，而不是 / 2。注意 2 后面有一个句点。这是因为在 Python 2 中，将一个整数除以另一个整数 (2)，会舍去分数。所以如果输入是整数值，就会丢失信息。因此使用浮点数值 (2.)，我们就能保留结果小数点后的值了。
+
+
 ## 2018.10.30
 patron: 1.a person who gives financial support to a person, organization, cause, or an activity.  2. a customer, especially of a regular one, especially to a restaurant , a store or a theater.  
 
