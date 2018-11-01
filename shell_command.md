@@ -17,17 +17,17 @@ done
 上述方法是确定了字符串分割后的长度的，要写的更通用一点的话：  
 #!/bin/bash<br>
 user=’mark:x:0:0:this is a test user:/var/mark:nologin’<br>
-i=1
-while((1==1))
-do
-        split=`echo $user|cut -d ":" -f$i`
-        if [ "$split" != "" ]
-        then
-                ((i++))
-                echo $split
-        else
-                break
-        fi
-done
+i=1<br>
+while((1==1))<br>
+do<br>
+        split=`echo $user|cut -d ":" -f$i`<br>
+        if [ "$split" != "" ]<br>
+        then<br>
+                ((i++))<br>
+                echo $split<br>
+        else<br>
+                break<br>
+        fi<br>
+done<br>
 
 
