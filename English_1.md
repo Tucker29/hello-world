@@ -4,7 +4,8 @@ explicit: 1.unambiguous in expression. 2.fully revealed or expressed without vag
 implicit:  
 emblem: a heraldic device or symbolic object as a distinctive badge of a nation, organization or family.  
 badge: a distinctive emblem wore as a mark of office, membership, achevement, licensed employment.  
-heraldic: 纹章的
+heraldic: 纹章的  
+dapper: 1. a neat and trim in apperarance.  2. very spruce and stylish : a dapper new suit.
 
 
 ## 2018.10.31
