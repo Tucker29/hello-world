@@ -15,8 +15,8 @@ do
   echo $user|cut -d ":" -f$i
 done  
 上述方法是确定了字符串分割后的长度的，要写的更通用一点的话：  
-#!/bin/bash
-user=’mark:x:0:0:this is a test user:/var/mark:nologin’
+#!/bin/bash<br>
+user=’mark:x:0:0:this is a test user:/var/mark:nologin’<br>
 i=1
 while((1==1))
 do
