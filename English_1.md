@@ -1,4 +1,11 @@
 # English  
+## 2018.11.2
+consecutive:  
+debut:  first appearance  
+indulgent:  
+connive: 1. to pretend ingorance of or fail to take action against something one ought to oppose. 2. to be indulgent or in secret sympathy.  to cooperate secretly or have a secret understanding.   3. conspire,, intrigue.  
+
+
 ## 2018.11.1
 explicit: 1.unambiguous in expression. 2.fully revealed or expressed without vagueness, implication, or ambiguity.  
 implicit:  
