@@ -4,6 +4,8 @@ consecutive:
 debut:  first appearance  
 indulgent:  
 connive: 1. to pretend ingorance of or fail to take action against something one ought to oppose. 2. to be indulgent or in secret sympathy.  to cooperate secretly or have a secret understanding.   3. conspire,, intrigue.  
+paycheck:  salary, wage.  
+
 
 
 ## 2018.11.1
