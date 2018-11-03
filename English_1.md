@@ -1,4 +1,9 @@
-# English  
+# English
+## 2018.11.3
+sentiment: mood, feeling     
+sentimental: prompted by feelings of tenderness, sadness, nostalgia.  
+
+
 ## 2018.11.2
 consecutive:  
 debut:  first appearance  
