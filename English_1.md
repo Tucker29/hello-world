@@ -1,4 +1,18 @@
 # English
+## 2018.11.4
+optimum:  
+scoff:  
+retrospect:  
+hinder:  
+assimilate:  
+nonchalant:  
+oblivious:  
+ostracize:  
+spur of the moment:  spontaneously  
+debut:  
+consecutive:  
+
+
 ## 2018.11.3
 sentiment: mood, feeling     
 sentimental: prompted by feelings of tenderness, sadness, nostalgia.  
