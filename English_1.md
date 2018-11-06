@@ -1,4 +1,12 @@
 # English
+## 2018.11.5
+intern:  
+fabulous:  
+dusk:  
+handful:  
+gloat:  
+mock:  
+
 ## 2018.11.4
 optimum:  
 scoff:  
