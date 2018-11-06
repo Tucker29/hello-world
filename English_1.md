@@ -1,4 +1,17 @@
 # English
+## 2018.11.6
+aesthetical: aesthetically very pleasant.  
+zealous: show great energy, passion or enthusiasm for sth.  
+masculinity:  suits emphasize the masculinity.  
+compact: adj:  
+mock interview:  
+mock: (v):fool or make fun of: laugh at sb in an unkind way, especially by copying what they say or do.   to show no repect for sb.   (adj)mock interview.  
+15 reps, 4 sets, and one minmute rest in between. 一共4组，每组15次.  
+abdominal:  
+push up ---> leg squat ---> absdominal work out ----> the burpee剥皮跳/squat thrust蹲跳(aerobic exercise)
+
+
+
 ## 2018.11.5
 intern:  
 fabulous:  
