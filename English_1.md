@@ -3,6 +3,10 @@
 the problem I have with the idea is that....  
 不说 不，但是  而是说 不过.  
 yes, and....  
+redress: re-dress: correct  
+sentimental:  
+
+
 
 
 
