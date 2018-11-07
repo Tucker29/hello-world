@@ -5,6 +5,8 @@ the problem I have with the idea is that....
 yes, and....  
 redress: re-dress: correct  
 sentimental:  
+cut it out: 算了吧  
+check it out: 仔细讨论  
 
 
 
