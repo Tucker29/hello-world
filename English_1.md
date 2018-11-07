@@ -7,8 +7,42 @@ redress: re-dress: correct
 sentimental:  
 cut it out: 算了吧  
 check it out: 仔细讨论  
+prank:  
+convention: 1. the way most people expect or consider to the polite or right way to do it. ===custom;  2. a large meeting; 3. an official agreement between countries or leaders.  
+vintage:  
+renovation:  
+New England patriots:  
+MLB: 棒球  NFL:橄榄球: Yes, now that Americans have seen how good the game is, MLB and the NFL should watch out!  
+Seattle seahawks:西雅图海鹰队.  
+Pittsburgh steelers: 匹兹堡钢铁公司.  
+sausage: 香肠.  
+It is made in suede.绒面革.  
 
+__winter weekend style__  
+1. jacket: sport jacket  
+2. pocket square  
+3. knitted ties  
+4. Turtle neck  
+5. jeans:  
+6. weekend don't wear normal suits.  
+7. wear a belt:  
+8. avoid big logo. not shinny.   
+9. chealsea boot: zip on the side.   or lace up boot: 系鞋带的鞋子.  
+winter boots: Chelsea boots.  
+bit of sophistication on the weekend. 精致在周末.  
+sneaker  ==== trainer 运动鞋.  
+10. overcoat: 大衣.  
+double luxury:  One life to live.  it's one piece of cashmere, stick to another sode of cashmere.  
+cashmere's fabric seven times warmer than wool.  
 
+11. accessaries.  pocket square or gloves.  
+sleeve:袖子   gloves:手套.  
+
+the vision need to be reiterated. 重申，反复的说.
+your selfies: 自拍.  
+
+__mediocre__  
+Depacito: A song you tell Alexa to play when you feel very sad.  
 
 
 
