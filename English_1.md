@@ -25,7 +25,7 @@ cut it out: 算了吧
 check it out: 仔细讨论  
 prank:  
 convention: 1. the way most people expect or consider to the polite or right way to do it. ===custom;  2. a large meeting; 3. an official agreement between countries or leaders.  
-vintage:  
+vintage:酿酒, 最佳的.  
 renovation:  
 New England patriots:  
 MLB: 棒球  NFL:橄榄球: Yes, now that Americans have seen how good the game is, MLB and the NFL should watch out!  
