@@ -1,6 +1,11 @@
 # English
 ## 2018.11.8
-
+Empire State Building is a __iconic__ experience, great view of the city.  
+shoulda  coulda: only in spoken English.  
+phonetic: pinyin   phonetic symbol:  
+keep A from doing sth:  a lower gear provide more engine braking and keep the transmission from shifting as often.  
+impromptu:  
+extemporaneous:  
 mug:  
 rack:  
 palmary: distinguished, excellent, outstanding, splendid, ranking.  
