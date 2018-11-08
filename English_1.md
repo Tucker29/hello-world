@@ -4,8 +4,10 @@ Empire State Building is a __iconic__ experience, great view of the city.
 shoulda  coulda: only in spoken English.  
 phonetic: pinyin   phonetic symbol:  
 keep A from doing sth:  a lower gear provide more engine braking and keep the transmission from shifting as often.  
-impromptu:  
-extemporaneous:  
+impromptu:made, done, or formed on or as if on the spur of the moment. ===improvised: created or performed spontaneously or without preparation.   
+extemporaneous:spoken or done without preparation.  
+alloy:合金.  
+
 mug:  
 rack:  
 palmary: distinguished, excellent, outstanding, splendid, ranking.  
