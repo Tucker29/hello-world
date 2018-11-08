@@ -3,6 +3,8 @@
 
 mug:  
 rack:  
+palmary: distinguished, excellent, outstanding, splendid, ranking.  
+scenario: an outline or synopsis of a play; shooting script or screenplay; a sequence of events especially when imagined.  
 
 
 
