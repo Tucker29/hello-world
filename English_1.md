@@ -1,12 +1,28 @@
 # English
 ## 2018.11.9
+placate: to make sb less angry or hostile.  
+partisan bias:党派偏见.  
 rearview mirror:  
 headrest:  
 console:  
 I won't take a back seat for him. ===I won't let him or his ideas be more important or prominent than mine.  
 shotgun: if you want to sit in the passenger's seat, yelling "shotgun".  shotgun: t不发音.  
+floor mat.   gas pedal     brake   side mirror.  car seat.   trunk   tires   antenna   gas tank   windshield wiper: d不发音.  
+hood: 注意发音.   headlights:  engine:  stick shift   clutch    horn
+stick shift = automatic transmission / mannual transmission.  automatic:两个t都是发d的音.  
+climate control: climate的a-->er,          air vent  
+odometer,  speedodometer:  t--->d  
+bumper:保险杠.   gas gauge.  glove compartment.  cruise control
+compartment:包房，隔室，两个t都不发音.  
 
-
+## delish == delicious  
+appetizing,  mouthwatering, yummy  
+jiggly, soft, fluffy:  jiggly arm:  
+gooey: 胶黏的.  
+a gooey chocolate chip cookie/brownie.  
+creamy,   sour and sweet chicken, 
+crispy on the outside, juicy on the inside  
+chewy: 有嚼劲的.
 
 ## 2018.11.8
 Empire State Building is a __iconic__ experience, great view of the city.  
