@@ -1,10 +1,12 @@
 # English
 ## 2018.11.9
+love ballad: 喜欢民谣.  
+hygience: ==sanitation : conditions or practices conductive to maintaining health or prevent diseases, especially through cleanliness.  
 placate: to make sb less angry or hostile.  
 partisan bias:党派偏见.  
 rearview mirror:  
 headrest:  
-console:  
+console: (v): comfort someone at a time of grief or disappointment.  (n):  
 I won't take a back seat for him. ===I won't let him or his ideas be more important or prominent than mine.  
 shotgun: if you want to sit in the passenger's seat, yelling "shotgun".  shotgun: t不发音.  
 floor mat.   gas pedal     brake   side mirror.  car seat.   trunk   tires   antenna   gas tank   windshield wiper: d不发音.  
