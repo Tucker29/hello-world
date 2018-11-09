@@ -1,5 +1,8 @@
 # English
 ## 2018.11.9
+__lure__:饵：tempt sb/sth to do sth or go somewhere, especially by offering some form of reward.  
+But on Wednesday night, a night specifically designed to __lure__ young, college age patrons into the __venue__会场, that is the horrifying scene that __unfolded__展开 at the bar in Thousand Oaks, Calif.  
+venue: a place sth happens, especially an organized event such as a conference, concert, sports event.  
 patron == customer顾客   而guest:来宾，客人
 ove ballad: 喜欢民谣.  
 hygience: ==sanitation : conditions or practices conductive to maintaining health or prevent diseases, especially through cleanliness.  
