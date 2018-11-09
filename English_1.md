@@ -1,6 +1,7 @@
 # English
 ## 2018.11.9
-love ballad: 喜欢民谣.  
+patron == customer顾客   而guest:来宾，客人
+ove ballad: 喜欢民谣.  
 hygience: ==sanitation : conditions or practices conductive to maintaining health or prevent diseases, especially through cleanliness.  
 placate: to make sb less angry or hostile.  
 partisan bias:党派偏见.  
@@ -16,6 +17,7 @@ climate control: climate的a-->er,          air vent
 odometer,  speedodometer:  t--->d  
 bumper:保险杠.   gas gauge.  glove compartment.  cruise control
 compartment:包房，隔室，两个t都不发音.  
+Horrors:
 
 ## delish == delicious  
 appetizing,  mouthwatering, yummy  
