@@ -1,5 +1,9 @@
 # English
 ## 2018.11.9
+rearview mirror:  
+headrest:  
+console:  
+I won't take a back seat for him. ===I won't let him or his ideas be more important or prominent than mine.  
 
 
 ## 2018.11.8
