@@ -1,4 +1,12 @@
 # English
+## 2018.11.10
+umbrage:1.树荫, 2.生气;不快  take umbrage at sth == to feel offended, or upset, insulted by sth, often without good reason.无故生气. 
+I'm floored by your words.  
+compelling: 1. sth that you pay attention to because it's interesting and exciting.  2. so strong that you must do sth about it: eg: a compelling need/desire.   3.that makes you think it is true.  
+
+
+
+
 ## 2018.11.9
 __*sustain*__: 1.support mentally or physically  2.undergo or suffer  3. uphold, affirm, comfirm the justice or validity of.  
 
