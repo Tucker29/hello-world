@@ -4,6 +4,8 @@ rearview mirror:
 headrest:  
 console:  
 I won't take a back seat for him. ===I won't let him or his ideas be more important or prominent than mine.  
+shotgun: if you want to sit in the passenger's seat, yelling "shotgun".  shotgun: t不发音.  
+
 
 
 ## 2018.11.8
