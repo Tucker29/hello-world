@@ -1,5 +1,23 @@
 # English
+# conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+poetic:  po e ti k :  
+dubai: doo bai  
+torso == human trunk：躯干.  trunk:主干,树干，躯干，行李箱     truck:卡车  
+
 ## 2018.11.10
+goofball: a total idiot, without any intelligence at all.  
+suave: charming, confident, and elegant  
+fidgety: 
+champ:  
+instantaneously:
+demeanor: 风度.  
+suave: 发音：swav   the suave guy. especially a man of charming, confident and elegant
+seduction: seduce == tempt  
+creepy: causing an unpleasant feeling of fear or unease.  
+I think none examplified goofball as well as Chris Pratt.  
+in his guest-hosting appearance on Jimmy Kimmel.  
+monologue: I had a lot of fun with the monologue, but now let's get down to __brass tacks__==the maint point of discussion, Okay?
+umprompted: said, done without being encouraged or assisted. 自发的.
 umbrage:1.树荫, 2.生气;不快  take umbrage at sth == to feel offended, or upset, insulted by sth, often without good reason.无故生气. 
 I'm floored by your words.  
 compelling: 1. sth that you pay attention to because it's interesting and exciting.  2. so strong that you must do sth about it: eg: a compelling need/desire.   3.that makes you think it is true.  
