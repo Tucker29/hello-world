@@ -7,6 +7,10 @@ compelling: 1. sth that you pay attention to because it's interesting and exciti
 __charisma__: k er ri z m er: ====charm, 魅力.
 
 
+If I were your position, I would do the same. And ....  
+hyporthetical question.  
+Does it concern that ....? 你有没有想过....
+
 
 ## 2018.11.9
 __*sustain*__: 1.support mentally or physically  2.undergo or suffer  3. uphold, affirm, comfirm the justice or validity of.  
