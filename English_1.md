@@ -4,6 +4,7 @@ umbrage:1.树荫, 2.生气;不快  take umbrage at sth == to feel offended, or u
 I'm floored by your words.  
 compelling: 1. sth that you pay attention to because it's interesting and exciting.  2. so strong that you must do sth about it: eg: a compelling need/desire.   3.that makes you think it is true.  
 
+__charisma__: k er ri z m er: ====charm, 魅力.
 
 
 
