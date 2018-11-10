@@ -9,7 +9,7 @@ compelling: 1. sth that you pay attention to because it's interesting and exciti
 
 ## 2018.11.9
 __*sustain*__: 1.support mentally or physically  2.undergo or suffer  3. uphold, affirm, comfirm the justice or validity of.  
-
+condolence: ==sympathy, support  eg: we offered deep condolences to the victims.
 
 __lure__:饵：tempt sb/sth to do sth or go somewhere, especially by offering some form of reward.  
 But on Wednesday night, a night specifically designed to __lure__ young, college age patrons into the __venue__会场, that is the horrifying scene that __unfolded__展开 at the bar in Thousand Oaks, Calif.  
