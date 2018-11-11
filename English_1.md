@@ -1,8 +1,11 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.11.11
 poetic:  po e ti k :  
 dubai: doo bai  
 torso == human trunk：躯干.  trunk:主干,树干，躯干，行李箱     truck:卡车  
+handy: convenient/easy.  
+
 
 ## 2018.11.10
 goofball: a total idiot, without any intelligence at all.  
