@@ -1,5 +1,9 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.11.12
+
+
+
 ## 2018.11.11
 poetic:  po e ti k :  
 dubai: doo bai  
