@@ -2,6 +2,8 @@
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 ## 2018.11.12
 temperate:  
+intuitive:  
+biennial:__two-year, biyearly__ adj: 1. take place every other year. 2.(especially a plant)living or lasting two years  (n):an event that take place/ be celebrated every two years. / an plant that takes two years to grow from seed to fruition and die.
 admonish: warn or reprimond someone firmly.  谏.  to express warnings or disapproval.  
 cocky: conceited//arrogant especially  in a bold or imprudent way.  
 
