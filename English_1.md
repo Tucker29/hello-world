@@ -1,6 +1,10 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 ## 2018.11.12
+temperate:  
+admonish: warn or reprimond someone firmly.  谏.  to express warnings or disapproval.  
+cocky: conceited//arrogant especially  in a bold or imprudent way.  
+
 
 
 
