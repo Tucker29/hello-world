@@ -1,5 +1,11 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+
+
+## 2018.11.13
+- Stan Lee:
+> irresistable  
+
 ## 2018.11.12
 temperate:  
 intuitive:  
