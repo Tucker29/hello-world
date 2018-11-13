@@ -1,5 +1,23 @@
 # Pennsylvania
 
+# iconic movie sentence
+1. Houston, we/I have a problem.  
+2. Frankly, my dear, I don't give a damn. ===I don't care. 跟亲近的人说的.  
+3. Alright. Alright. Alright.   ===Alright, we're here.  
+4. May thge force be with you.  ===分别时给对方祝福.  
+5. I am serious. And don't call me Shirley. ===用来回答Are you serious?  
+6. I'll have what she's having. ===点餐时，I'll get the same thing as her.  
+7. Love means never having to say you're sorry. ===回答爱的人的道歉.  
+8. Say hello to my little friend.  === Look what I got/check out my new (iPhone).  
+9. Stupid is as stupid does.  ===回答 you're so stupid.  
+10. Run Forrest Run!  ===跑步比赛.  
+11. My mom always said, "Life is like a box of chocalate. You never know what you gonna get".  
+12. I'm the king of the world!.  Leonardo DiCaprio.  ===成功地做成什么事后庆祝.   
+13. keep your friends close, but your enemies closer.  ===From The Godfather 2.  
+14. I'm gonna make him an offer he can't refuse.  ===I already have a plan.   
+15. There's no place like home.  
+
+
 # confusing words  
 1. bear with me == please wait me a minute.  
 eg: bear with me while I catch your fish: 再等一会，鱼马上来  
