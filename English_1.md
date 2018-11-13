@@ -3,6 +3,12 @@
 
 
 ## 2018.11.13
+the principal's office.  
+quarrelsome: quearrelsome student often be sent to the principal's office.  
+- frisky:
+  >1. full of energy; wanting to play
+  >2. wanting to enjoy yourself in a sexual way.  
+  
 - Stan Lee:
   > irresistable  
 
