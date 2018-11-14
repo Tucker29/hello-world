@@ -1,6 +1,8 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 
+## 2018.11.14
+recipient: a person or thing that receives or is awarded something.  
 
 ## 2018.11.13
 the principal's office.  
