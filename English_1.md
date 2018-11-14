@@ -3,6 +3,16 @@
 
 ## 2018.11.14
 recipient: a person or thing that receives or is awarded something.  
+goofy:==foolish  
+prime: make sth ready for use or action, in particular.  
+self-deprecating;  poking fun;   ego booster.
+incorporate:  
+subtext:  
+preposterous: ridiculous/absurd:  
+incorporate: take in or contain sth as part of a whole;  ===include.  
+consititute: comprise. consist of, include, incorporate, be made up of, involve.  
+thunk: a thick solid piece of sth.  (V): divide sth into chunks     thuck:throw, cast, toss  
+
 
 ## 2018.11.13
 the principal's office.  
