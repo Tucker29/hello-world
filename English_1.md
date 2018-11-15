@@ -2,6 +2,10 @@
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 
 ## 2018.11.15
+## suggestions:
+  > 1. enthusiasm
+  > 2. decide quickly
+  > 3. show your palm. otherwise, it seems like you're hiding something.  
 inception: beiginning;  from inception to completion.  the __eastablishment or start point__ of the institution/activity.  
 
 commencement: 1.beginning/start point.  2. graduation ceremony.  
