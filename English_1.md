@@ -11,6 +11,11 @@ sarcasm: irony; satire; caricature; lampoon; quip.
 memento:  an object kept as a reminder or souvenir of a person or event.  
 archaic: very old or old-fashioned.  
 calibrate: to ascertain the caliber of the sth. === standardize.  
+vibe: a person's emotional state or the atmosphere of the place.  
+clamor: shout loudly and insistently.  
+- vehement: 
+  > show strong feelings: passionate, intense.  
+  > generous.
 
 inception: beiginning;  from inception to completion.  the __eastablishment or start point__ of the institution/activity.  
 
