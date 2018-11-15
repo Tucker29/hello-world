@@ -7,6 +7,11 @@
   > 2. decide quickly
   > 3. show your palm. otherwise, it seems like you're hiding something.  
 
+sarcasm: irony; satire; caricature; lampoon; quip.  
+memento:  an object kept as a reminder or souvenir of a person or event.  
+archaic: very old or old-fashioned.  
+calibrate: to ascertain the caliber of the sth. === standardize.  
+
 inception: beiginning;  from inception to completion.  the __eastablishment or start point__ of the institution/activity.  
 
 commencement: 1.beginning/start point.  2. graduation ceremony.  
