@@ -1,6 +1,11 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 
+## 2018.11.15
+inception: beiginning;  from inception to completion.  the __eastablishment or start point__ of the institution/activity.  
+
+commencement: 1.beginning/start point.  2. graduation ceremony.  
+
 ## 2018.11.14
 recipient: a person or thing that receives or is awarded something.  
 goofy:==foolish  
