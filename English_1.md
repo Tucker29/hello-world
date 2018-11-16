@@ -47,6 +47,19 @@ clamor: shout loudly and insistently.
   > show strong feelings: passionate, intense.  
   > generous.
 
+couch: ===bench. the long chair.  
+reinforce: strengthen  
+This is the reason why Graham's guests are so __laid__悠闲 back on the show.  
+uptight: nervous.  
+upbeat tone:  upbeat: cheerful; optimistic.  
+don't say something out of malice or dislike for someone.   ##malice: the intention/desire to do evil.  
+botch: bungle; make a mess of; mismanage; mishandle; carry out sth badly or carelessly.  
+Empire's sexiest man of the year poll.  
+intently: with earnest and eager attention. 一心一意.  
+endear him to people:  endear: cause to be loved or liked.  
+extra nudity:  
+one-wipes for after you poop: 
+
 inception: beiginning;  from inception to completion.  the __eastablishment or start point__ of the institution/activity.  
 
 commencement: 1.beginning/start point.  2. graduation ceremony.  
