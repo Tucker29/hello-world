@@ -1,5 +1,35 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.11.16
+a bed of roses:  Life is not a bed of roses.  
+big house:  
+biennial: two-year  
+
+figurehead  
+pay tribute  
+leave a legacy that will outlive us all.  
+wind up: === end up with.  wind up trusting youself.  
+decide quickly, despite concensus.  
+casino: gambling house.  
+caveat: a warning.  
+stipulation: appointment, agreement.  
+banter: laugh at.  
+inscrutable: impossible to understand/interpret.  ==unexplicit, mysterous, unexplainable, incomprehensible.  
+animate: (adj) alive;  (v) bring to life.  
+gesticulation:  
+floppy:  
+dormant: (of an animal) having normal physical function suspended or slowed down for a period of time.  
+sarcastic: irony.  
+sporadically: occassionally.  
+adage: proverb, saying, byword.  
+puke: vomit, spew.  
+
+先行其言，而后从之: 先做好你想说的，之后再把它说出来.  
+- 慎独：
+  > 在别人看不见的时候，能慎重行事.
+  > 在别人听不见的时候，能保持清醒.
+ 
+ 
 
 ## 2018.11.15
 ## suggestions:
