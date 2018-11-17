@@ -1,5 +1,7 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.11.18
+
 ## 2018.11.17
 threshold: nothing happens until the signal passes the threshold.  
 dense: closely compacted in substance.  
