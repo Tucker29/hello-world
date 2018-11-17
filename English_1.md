@@ -4,7 +4,10 @@
 threshold: nothing happens until the signal passes the threshold.  
 dense: closely compacted in substance.  
 impeccable: (of behavior, performance or appearance) in accordance with the highest standard. ====faultiess.  
-fine-tune: make small adjustment to sth in order to get better performance.  
+fine-tune: make small adjustment to sth in order to get better performance.   
+introvert: a shy, reticent, or self-centered person.性格内向  
+reticent: not revealing one's thoughts or feelings readily.沉默的  
+
 
 ## 商务英语会议
 Let's get down to business.  
