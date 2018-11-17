@@ -2,6 +2,9 @@
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 ## 2018.11.17
 threshold: nothing happens until the signal passes the threshold.  
+dense: closely compacted in substance.  
+
+
 
 ## 2018.11.16
 a bed of roses:  Life is not a bed of roses.  
