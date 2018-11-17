@@ -3,6 +3,8 @@
 ## 2018.11.17
 threshold: nothing happens until the signal passes the threshold.  
 dense: closely compacted in substance.  
+impeccable: (of behavior, performance or appearance) in accordance with the highest standard. ====faultiess.  
+fine-tune: make small adjustment to sth in order to get better performance.  
 
 
 
