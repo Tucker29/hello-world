@@ -6,7 +6,19 @@ dense: closely compacted in substance.
 impeccable: (of behavior, performance or appearance) in accordance with the highest standard. ====faultiess.  
 fine-tune: make small adjustment to sth in order to get better performance.  
 
-
+## 商务英语会议
+Let's get down to business.  
+Alright, looks like everyone has settled in.  
+Just to make sure we are all on the same page.  
+Any thoughts on that?  
+We are all caught up.  
+Let's move on to/talk about…  
+Where are we on …(the new product launch)?  
+We'll get right on that.  
+We need a Game Plan to Get it Off the Ground.  
+I'm with you/I couldn't agree with you more.  
+I hear you, but/however…  
+Let's pick up where we left off.  
 
 ## 2018.11.16
 a bed of roses:  Life is not a bed of roses.  
