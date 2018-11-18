@@ -2,7 +2,8 @@
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 ## 2018.11.18
 malnutrition: lack of nutrition.  
-
+insole: 鞋垫.  
+It's the most versatile piece of winter accessory:
 
 
 ## 2018.11.17
