@@ -11,6 +11,8 @@ memento: sth received or give to as a reminder of sth.
 frisky:  
 feity:  
 amplify: to expand sth, like a statement;  to increase amount/importance.  
+municipal: 市的 市政的； 地方性的.  muni --> com muni ty.  muni:公共的.  
+
 
 - 电影《阿甘正传》:
   >It makes me look like a duck in the water.
