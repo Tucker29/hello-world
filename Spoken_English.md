@@ -1,5 +1,17 @@
 # Pennsylvania
 
+apt/disposed == tend to.  
+go to caricature: 漫画; 讽刺. the striking characteristic of sb/sth be exaggerated.  
+
+I want to dye my hair one shade darker/lighter.  
+It was great seeing you.  
+I'm really smart, aren't I?  
+kind of, I don't hate it.  
+No, I'm good, thank you.  
+
+That's a good question. What do I think of that?  === 用来让人repeat 对方的话.  
+
+
 # iconic movie sentence
 1. Houston, we/I have a problem.  
 2. Frankly, my dear, I don't give a damn. ===I don't care. 跟亲近的人说的.  
