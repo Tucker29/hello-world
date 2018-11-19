@@ -1,5 +1,10 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.11.19
+counterfeit: imitate fraudulently.  
+blazer: a light-weight jacket, solid-colored often wore as part of a uniform by members of a club, school, sports team.  
+
+
 ## 2018.11.18
 malnutrition: lack of nutrition.  
 insole: 鞋垫.  
