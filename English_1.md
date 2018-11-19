@@ -3,6 +3,14 @@
 ## 2018.11.19
 counterfeit: imitate fraudulently.  
 blazer: a light-weight jacket, solid-colored often wore as part of a uniform by members of a club, school, sports team.  
+inception: foundation; beginning.  
+commencement: gradution ceremony.  
+the well-tried tatic.  
+calibrate: to find out the caliber of sth.  ===standardize.  
+memento: sth received or give to as a reminder of sth.  
+frisky:  
+feity:  
+amplify: to expand sth, like a statement;  to increase amount/importance.
 
 
 ## 2018.11.18
