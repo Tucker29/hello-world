@@ -10,8 +10,14 @@ calibrate: to find out the caliber of sth.  ===standardize.
 memento: sth received or give to as a reminder of sth.  
 frisky:  
 feity:  
-amplify: to expand sth, like a statement;  to increase amount/importance.
+amplify: to expand sth, like a statement;  to increase amount/importance.  
 
+- 电影《阿甘正传》:
+  >It makes me look like a duck in the water.
+  >You have to put the past behind you before you can move on.  
+  >I'm a man of my word.  
+  >Nothing just happens, it's all part of a plan.  
+  >Have you ever given any thought to your future.  
 
 ## 2018.11.18
 malnutrition: lack of nutrition.  
