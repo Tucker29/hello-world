@@ -1,5 +1,20 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.11.21
+when some pretty savage people roam mountain and find them.  
+dwarf: Tyrion, the dwarf.  
+but suffice it to say, ....: 只要说。。。就够了.  
+zinger: a strking or amusing remark.  
+captor:  
+wield:  
+treason:  
+ulterior: existing beyond what is obvious or admitted; intentionally hidden.  
+taunt: provoke or challenge (sb) with insulting remarks.  
+turn the other cheek.  
+pawns:  
+he allows his ego to be bruised in service of his goals.  
+
+
 ## 2018.11.20
 caveat:  
 underpin:  
