@@ -3,13 +3,23 @@
 ## 2018.11.22
 mellow:  amiable.  
 martial arts:  
-dichotomy questions:  
+dichotomy questions:  dai co ter mi.  
 taunt:  do not rise to these taunts.  
 sleight:  
 animosity: an ne mosity == hostility.  ha s ti lity.  
 get some perks:  
 verbal altercation:  
 __sentimentality: 森提 门它 乐提.__  
+
+- t --> d  
+  > still
+  > stealing
+  > title
+  > status
+  
+__key: knowledge  
+respect: characteric.__  
+
 
 
 
