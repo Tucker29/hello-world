@@ -1,5 +1,18 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.11.22
+mellow:  amiable.  
+martial arts:  
+dichotomy questions:  
+taunt:  do not rise to these taunts.  
+sleight:  
+animosity:  == hostility.  ha s ti lity.  
+get some perks:  
+verbal altercation:  
+__sentimentality: 森提 门它 乐提.__  
+
+
+
 ## 2018.11.21
 when some pretty savage people roam mountain and find them.  
 dwarf: Tyrion, the dwarf.  
