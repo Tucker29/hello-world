@@ -1,8 +1,8 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 ## 2018.11.22
-mellow:  amiable.  
-martial arts:  
+mellow:  amiable. ei me er ble.    
+martial arts: 玛秀儿 arts    
 dichotomy questions:  dai co ter mi.  
 taunt:  do not rise to these taunts.  
 sleight:  
