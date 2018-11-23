@@ -1,5 +1,9 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.11.23
+hyperbolic: exaggerated, hyperbolical.  
+
+
 ## 2018.11.22
 mellow:  amiable. ei me er ble.    
 martial arts: 玛秀儿 arts    
