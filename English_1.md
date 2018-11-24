@@ -1,5 +1,10 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.11.24
+worship: adore.  
+
+
+
 ## 2018.11.23
 hyperbolic: exaggerated, hyperbolical.  
 
