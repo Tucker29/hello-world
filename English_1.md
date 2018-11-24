@@ -3,10 +3,10 @@
 ## 2018.11.24
 worship: adore.  
 - t --> d  
-  > still
-  > stealing
-  > title
-  > status
+  > still  
+  > stealing  
+  > title  
+  > status  
 
 sacred: sei k rid:  
 
