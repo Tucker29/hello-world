@@ -1,7 +1,10 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 ## 2018.11.25
-temperament: a person's or an animal's nature. especially as it permanently affects their behavior.
+temperament: a person's or an animal's nature. especially as it permanently affects their behavior.  
+intimidate: threaten.  frighten or overawe sb, especially to make them do what one wants.  
+sensationalism, phenomenalism
+
 
 ## 2018.11.24
 worship: adore.  
