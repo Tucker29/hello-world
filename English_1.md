@@ -3,7 +3,7 @@
 ## 2018.11.26
 metrics: public measurement.  
 state of art:  
-
+intrinsic: inherent, built-in, natural, innate.  
 
 ## 2018.11.25
 temperament: a person's or an animal's nature. especially as it permanently affects their behavior.  
