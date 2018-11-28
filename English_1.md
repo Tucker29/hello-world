@@ -2,6 +2,14 @@
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 ## 2018.11.28
 satirize:   
+baffle: be wilder or perplex  
+perplex: sth complicated or unaccountable cause sb completely baffled.  
+episodic:  
+overarching point:  
+dismantle your weapon:  
+cripple:  weaken  
+Republican party primaries:  primaries: 初选.  
+impactful: have a major impact or effect.  
 
 
 ## 2018.11.26
