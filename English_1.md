@@ -10,6 +10,7 @@ dismantle your weapon:
 cripple:  weaken  
 Republican party primaries:  primaries: 初选.  
 impactful: have a major impact or effect.  
+pick on me:  ===choose me.  
 
 
 ## 2018.11.26
