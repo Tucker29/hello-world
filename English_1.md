@@ -2,7 +2,12 @@
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 ## 2018.11.29
 roundabout: not a short direct route.  
-
+- mock:
+  > impersonate  
+  > pattern  
+  > simulate  
+  > imitate  
+  
 
 ## 2018.11.28
 satirize:   
