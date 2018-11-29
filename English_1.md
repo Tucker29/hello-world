@@ -16,6 +16,9 @@ Republican party primaries:  primaries: 初选.
 impactful: have a major impact or effect.  
 pick on me:  ===choose me.  
 
+## 2018.11.27
+一件事情发生以后，你总是先怀疑是不是自己错了，应该是先在心里认为自己是对的.  
+
 
 ## 2018.11.26
 metrics: public measurement.  
