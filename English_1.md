@@ -1,5 +1,12 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.11.30
+rhetoric: rhyme.  
+hypocrite:  
+incompetent:  t-->d  ===inept.  
+plummeted:  fall/drop straight down.  
+
+
 ## 2018.11.29
 roundabout: not a short direct route.  
 - mock:
