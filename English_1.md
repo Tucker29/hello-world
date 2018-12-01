@@ -1,5 +1,17 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.12.1
+infer: deduce or conclude from some evidence or reasoning rather than from explicit statement.  
+- anticipate: 
+  > predict, foreknow;  
+  > forestall  
+
+outnumber: girls outnumbers boys by 3 to 1.  
+prototype:  
+
+outcome: result, consequence.  
+
+
 ## 2018.11.30
 rhetoric: rhyme.  
 hypocrite:  
