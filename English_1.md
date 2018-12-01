@@ -1,5 +1,23 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.12.2
+counterproductive: have an opposite effect.  
+zinger: a striking or amusing remark.   
+improvise: == spontaneously or without any preparation.  eg: improvise solution that their commander would never anticipate.  
+mantra: repeat the mantra.  
+snippets: snippets from the hour and a half long debate.  
+overarching goal:  
+blunder: error, mistake   v: make a mistake.  
+precipitate: ==cause, faciliate: make an action or process easy/easier.  
+- prohibitive: prohibitive question.  
+  > restrain.  
+  > extremely expensive.  
+preclude: close. 排除.  
+with some latitude.  
+prototype.  
+intact == complete.  
+
+
 ## 2018.12.1
 infer: deduce or conclude from some evidence or reasoning rather than from explicit statement.  
 - anticipate: 
