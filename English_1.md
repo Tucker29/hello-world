@@ -18,6 +18,10 @@ prototype.
 intact == complete.  
 hunk:  
 testament:  
+hunk:  
+jokester persona:   
+lingerer:  
+it becomes a self-fulfilling prophecy and is destined to be awkward.  
 
 
 ## 2018.12.1
