@@ -22,6 +22,7 @@ hunk:
 jokester persona:   
 lingerer:  
 it becomes a self-fulfilling prophecy and is destined to be awkward.  
+__patch__: mend or strengthen (fabric or an item of clothing) by putting a piece of material over a hole or weak point in it.  
 
 
 ## 2018.12.1
