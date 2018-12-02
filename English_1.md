@@ -16,6 +16,8 @@ preclude: close. 排除.
 with some latitude.  
 prototype.  
 intact == complete.  
+hunk:  
+testament:  
 
 
 ## 2018.12.1
