@@ -1,5 +1,10 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.12.4
+chronologically:  
+plateau: I'm kind of hitting a plateau.  
+
+
 ## 2018.12.3
 gauge: measure, standard, estimate.    
 copacetic:  satisfactory. (interview with iron man, start from the copacetic peroid to aggressive peroid.).  
