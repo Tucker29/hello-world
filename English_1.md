@@ -1,5 +1,9 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 2018.12.3
+gauge: measure, standard, estimate.    
+copacetic:  satisfactory. (interview with iron man, start from the copacetic peroid to aggressive peroid.).  
+
 ## 2018.12.2
 counterproductive: have an opposite effect.  
 zinger: a striking or amusing remark.   
