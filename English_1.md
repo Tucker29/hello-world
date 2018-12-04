@@ -1,8 +1,24 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+
+
 ## 20018.12.4
 contrivance: a thing that is created skillfully and inventively to serve a particular purpose.  
 ingenuity: the quality of being clever, original, inventive.  
+imperial measurement: which was a parliamentry procedure.  
+Fahrenheit:  
+elaborate: develop or present (a theory, policy, system) in detail.     
+daredevil:  a reckonless person who enjoys doing dangerous things.  
+distraught: so upset and worried that you can't think clearly.  
+a Mars orbiter:  
+magnititude: === size.  
+__extort__: the practice of obtaining sth especially money by force or threats.  ==blackmail.  
+merchant: buyer and seller of commodity.  ===trader.  
+
+
+footage:  
+rewind:  
+he makes outlandish polarizing statement.  
 
 
 
