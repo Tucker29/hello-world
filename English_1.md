@@ -1,5 +1,11 @@
 # English
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
+## 20018.12.4
+contrivance: a thing that is created skillfully and inventively to serve a particular purpose.  
+ingenuity: the quality of being clever, original, inventive.  
+
+
+
 ## 2018.12.4
 chronologically:  
 plateau: I'm kind of hitting a plateau.  
