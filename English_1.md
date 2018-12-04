@@ -27,6 +27,7 @@ precipitate: ==cause, faciliate: make an action or process easy/easier.
 - prohibitive: prohibitive question.  
   > restrain.  
   > extremely expensive.  
+
 preclude: close. 排除.  
 with some latitude.  
 prototype.  
