@@ -1,4 +1,5 @@
 # English
+# suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 
 
