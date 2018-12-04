@@ -2,8 +2,11 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 
+## 2018.12.5
+circadian clock:   
 
-## 20018.12.4
+
+## 2018.12.4
 contrivance: a thing that is created skillfully and inventively to serve a particular purpose.  
 ingenuity: the quality of being clever, original, inventive.  
 imperial measurement: which was a parliamentry procedure.  
