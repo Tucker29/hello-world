@@ -8,6 +8,7 @@ I feel agitated,   the vicious circle.
 turn on a dime: 1. to turn very quickly and with great agility. to change focus.  
 double entendre: 双关语.  
 dimantle:  remove, tear down.  
+narrative: 叙述.  
 
 
 
