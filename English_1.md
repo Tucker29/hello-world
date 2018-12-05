@@ -16,6 +16,7 @@ financial IQ is a __synergy__ of all these skills and talents.
 cynicism: == self-doubt.  
 Not all Mosteller's Bayesian suspicions, some of which verge on cynicism , have proved well founded. #注意这句话的翻译.  
 Every time I've been arrogant, I've lost money, because I believe what I don't know wasn't important.   
+cynicism: skeptism: 怀疑论.  玩世不恭：对事情采取不认真，不严肃的态度.  
 
 
 
