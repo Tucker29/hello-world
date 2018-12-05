@@ -10,6 +10,13 @@ double entendre: 双关语.
 dimantle:  remove, tear down.  
 narrative: 叙述.  
 
+why beauty can be a scam?  
+financial literacy: 金融知识.  
+financial IQ is a __synergy__ of all these skills and talents.  
+cynicism: == self-doubt.  
+Not all Mosteller's Bayesian suspicions, some of which verge on cynicism , have proved well founded. #注意这句话的翻译.  
+Every time I've been arrogant, I've lost money, because I believe what I don't know wasn't important.   
+
 
 
 
