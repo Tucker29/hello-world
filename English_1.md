@@ -2,6 +2,13 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 
+## 2018.12.6
+how deviating from his strategy may lead  to the end of his __winning streak__.  
+treason: the crime of betraying one's country.  especially by attempting to kill the sovereign or overflow the government.  
+instinct: 直觉, 本能. == gnosis, hunch, intuition. # 直觉.  
+
+
+
 ## 2018.12.5
 circadian clock:   
 I feel agitated,   the vicious circle.  
