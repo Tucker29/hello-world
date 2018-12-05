@@ -5,6 +5,11 @@
 ## 2018.12.5
 circadian clock:   
 I feel agitated,   the vicious circle.  
+turn on a dime: 1. to turn very quickly and with great agility. to change focus.  
+double entendre: 双关语.  
+dimantle:  remove, tear down.  
+
+
 
 
 ## 2018.12.4
