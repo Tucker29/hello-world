@@ -17,6 +17,14 @@ rewind:
 tons of material to satirize:  
 hype: to promote or publicize (a product or an idea) intensively, often exaggerating its importance or benefits.  
 prominent: == outstanding.  Tyrion's most __promient__ character.  
+so the casual viewer is bombarded with messages that he is going to win.  
+
+prisoner of war:  captured especially sb from army force.  
+perk: extra money, good and other benefits.  
+get sick: 连起来读: ==> gets sick.  
+
+facet: side.  
+thereof:  ....(n), or lack thereof.  #thereof ===of that.  
 
 
 ## 2018.12.6
