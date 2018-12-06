@@ -6,6 +6,10 @@
 how deviating from his strategy may lead  to the end of his __winning streak__.  
 treason: the crime of betraying one's country.  especially by attempting to kill the sovereign or overflow the government.  
 instinct: 直觉, 本能. == gnosis, hunch, intuition. # 直觉.  
+ulterior: existing beyond what is obvious or admitted; intentionally hidden. 别有用心的.  ulterior motive.  
+he show no signs of outward animosity when people slide him.  
+militant: (n)激进分子. combative and aggressive in support of a political or social cause, and typically favoring extreme, violent, or confrontational methods.  
+
 
 
 
