@@ -2,6 +2,21 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 
+## 2018.12.7
+heckler: == badger: to annoy again and again.  
+Hologram: 全息照相.  
+alliteration:  
+It's her favorite rally point and make it a weakness.  
+double entendre:  双关语..  
+presumptuous: (of a person or their behavior) fail to observe the limit of what's permitted or appropriate.  
+Don't cripple your strategy.  
+pick on: criticize.  
+
+footage:  
+rewind:  
+tons of material to satirize:  
+hype: to promote or publicize (a product or an idea) intensively, often exaggerating its importance or benefits.  
+prominent: == outstanding.  Tyrion's most __promient__ character.  
 
 
 ## 2018.12.6
