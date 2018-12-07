@@ -5,6 +5,8 @@
 
 ## 2018.12.8
 rave about sb: rave: (n)== an extremely enthusiastic recommendation or appraisal of someone or something.  
+The visual transition is one of several seamless __segues__.  
+
 
 ## 2018.12.7
 heckler: == badger: to annoy again and again.  
