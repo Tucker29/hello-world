@@ -5,7 +5,8 @@
 
 ## 2018.12.8
 rave about sb: rave: (n)== an extremely enthusiastic recommendation or appraisal of someone or something.  
-The visual transition is one of several seamless __segues__.  
+The visual transition is one of several seamless __segues__.  #segue : (in music and film) move without interruption from one song, melody, or scene to another.  
+
 
 
 ## 2018.12.7
