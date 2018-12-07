@@ -3,6 +3,8 @@
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
 
+## 2018.12.8
+rave about sb: rave: (n)== an extremely enthusiastic recommendation or appraisal of someone or something.  
 
 ## 2018.12.7
 heckler: == badger: to annoy again and again.  
