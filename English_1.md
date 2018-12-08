@@ -2,6 +2,8 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.9  
+vibrae: to move or cause to move __to and fro__.  
 
 ## 2018.12.8
 rave about sb: rave: (n)== an extremely enthusiastic recommendation or appraisal of someone or something.  
