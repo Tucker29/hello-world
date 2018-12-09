@@ -2,6 +2,14 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.10
+aura:  
+vibrate: to move or cause to move to and fro.  
+momentum: tendency.  It's such a good momentum and tone to get things done by 5:00.  
+start slacking off.  
+cliche: a phrase or opinion that is overused and betrays a lack of original thought.  
+
+
 ## 2018.12.9  
 vibrae: to move or cause to move __to and fro__.  
 cliche: this might sound cliche, but it helps a lot.  
