@@ -4,6 +4,9 @@
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2018.12.9  
 vibrae: to move or cause to move __to and fro__.  
+cliche: this might sound cliche, but it helps a lot.  
+sabotage: damage, destroy, obstruct (sth), especially for political or military advantage.  
+
 
 ## 2018.12.8
 rave about sb: rave: (n)== an extremely enthusiastic recommendation or appraisal of someone or something.  
