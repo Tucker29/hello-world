@@ -5,7 +5,14 @@
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2018.12.12
 harbor: keep (a thought or feeling, typically a negative one) in one's mind, epecially secretly.  2. give a home or shelter to.  
-confidential: 
+confidential: intended to be kept secret.  # confidential information.    
+newsletter: the bulletin issued periodically to the members of an organization, a society, or business.  
+Join 250,000 subscribers and get a daily __digest__==abstract of news, comics, __trivia__==details or pieces of information of little importance, reviews, and more.  
+Skills & Endorsements：  
+solopreneur: a person who sets up and runs a business on their own.  
+dispersion: the action or process of distributing things or people over a wide area.  
+
+
 
 
 ## 2018.12.11
