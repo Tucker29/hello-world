@@ -12,6 +12,9 @@ Skills & Endorsements：
 solopreneur: a person who sets up and runs a business on their own.  
 dispersion: the action or process of distributing things or people over a wide area.  
 
+那就是仅仅在健身锻炼的时候看电视。只要你在椭圆机上坚持运动，那么你想看什么就可以看什么。  
+要始终乐于做那个主动打电话的人。只有这么做，才能保证事务能够准点开始  
+如果有人向你提议出去聚会一次，而你们彼此都对聚会非常期盼的话，那么就不要说“下个星期找个时间怎么样”之类的话语，而是要说：“那我们约在星期四下午两点吧，就去42号街上的那家星巴克坐坐，具体位置就在3号街路口到莱克斯路口之间的那一段。要是你觉得不太方便的话，就告诉我更加理想的时间和地点。”这样子表达可以帮你节省很多功夫，不然的话你有可能需要写4封来回确认的邮件了。  
 
 
 
