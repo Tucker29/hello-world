@@ -3,6 +3,8 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.12
+
 ## 2018.12.11
 omen: portent; sign; symptom.  # an event regarded as portent of good or evil.  
 
