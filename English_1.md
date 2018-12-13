@@ -3,6 +3,10 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.14
+wired: ==in a nervous, tense, edgy state.  # not much sleep lately(最近), I'm a little wired.  
+
+
 ## 2018.12.13
 toggle: switch  
 exploration and exploitation: 
