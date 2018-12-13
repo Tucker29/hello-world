@@ -3,6 +3,9 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.13
+
+
 ## 2018.12.12
 harbor: keep (a thought or feeling, typically a negative one) in one's mind, epecially secretly.  2. give a home or shelter to.  
 confidential: intended to be kept secret.  # confidential information.    
