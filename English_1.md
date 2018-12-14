@@ -5,6 +5,7 @@
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2018.12.14
 wired: ==in a nervous, tense, edgy state.  # not much sleep lately(最近), I'm a little wired.  
+fuss: a display of unnecessary or excessive excitement, activity, interest.  
 
 
 ## 2018.12.13
