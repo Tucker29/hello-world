@@ -5,6 +5,8 @@
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2018.12.15
 mechanical or industrial:  
+telecommuting:  
+
 
 ## 2018.12.14
 wired: ==in a nervous, tense, edgy state.  # not much sleep lately(最近), I'm a little wired.  
