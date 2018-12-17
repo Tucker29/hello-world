@@ -3,6 +3,13 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.17
+paperclip:  a bent mental.  
+equity: property right, fair.  
+grill: cook sth using a grill.  2. subject (someone) to intense questionning or interrogation.  
+
+
+
 ## 2018.12.16
 CC: closed captioning.  
 
