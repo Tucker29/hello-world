@@ -11,6 +11,9 @@ impartial: ==fair and just,  unbaised.
 
 merit: ====deserve or be worthy of (reward or punishment).  
 Within this category American __tycoons__ probably __merit__ their own subsection , as do, quite separately, __conmen__ and speculators.  
+leaderboard:  
+ride-hailing:  the premium ride-hailing service.  
+write-up link: note link.  
 
 
 
