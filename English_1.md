@@ -18,6 +18,10 @@ write-up link: note link.
 He drinks in his mess, is __coarsely__ sarcastic at home, neglects his __worn-down__ wife, and evidently rules his __wayward__ children harshly.  
 
 heuristics:  
+The people whom he met, besides his own __kin__, were __coarse__==(rude) in speech and thought.  
+- coarse:
+  > rough, loose in texture or grain.  
+  > (people or their speech) rude, vulgar, crude. 
 
 ## 2018.12.16
 CC: closed captioning.  
