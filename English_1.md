@@ -9,6 +9,9 @@ equity: property right, fair.
 grill: cook sth using a grill.  2. subject (someone) to intense questionning or interrogation.  
 impartial: ==fair and just,  unbaised.  
 
+merit: ====deserve or be worthy of (reward or punishment).  
+Within this category American __tycoons__ probably __merit__ their own subsection , as do, quite separately, __conmen__ and speculators.  
+
 
 
 ## 2018.12.16
