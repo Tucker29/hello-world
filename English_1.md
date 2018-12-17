@@ -7,6 +7,7 @@
 paperclip:  a bent mental.  
 equity: property right, fair.  
 grill: cook sth using a grill.  2. subject (someone) to intense questionning or interrogation.  
+impartial: ==fair and just,  unbaised.  
 
 
 
