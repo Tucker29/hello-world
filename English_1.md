@@ -15,7 +15,9 @@ leaderboard:
 ride-hailing:  the premium ride-hailing service.  
 write-up link: note link.  
 
-He drinks in his mess, is __coarsely__ sarcastic at home, neglects his __worn-down__ wife, and evidently rules his __wayward__ children harshly.
+He drinks in his mess, is __coarsely__ sarcastic at home, neglects his __worn-down__ wife, and evidently rules his __wayward__ children harshly.  
+
+heuristics:  
 
 ## 2018.12.16
 CC: closed captioning.  
