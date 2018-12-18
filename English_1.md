@@ -6,6 +6,14 @@
 ## 2018.12.18
 action values from oscillating or diverging catastrophically.  
 forehand:  
+escrow: place in custody or trust.  #kept in the custody of a third party, take effect when a specified condition has been fulfilled.  
+10 __grand__:  grand :# a thousand dollars or pounds.  
+The __plaintiff__ was legally __entitled__ to register a __lien__ for the proper amount.  
+
+
+
+
+
 
 ## 2018.12.17
 paperclip:  a bent mental.  
