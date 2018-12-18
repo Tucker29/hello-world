@@ -4,7 +4,8 @@
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2018.12.18
-
+action values from oscillating or diverging catastrophically.  
+forehand:  
 
 ## 2018.12.17
 paperclip:  a bent mental.  
