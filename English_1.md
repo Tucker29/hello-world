@@ -9,6 +9,7 @@ forehand:
 escrow: place in custody or trust.  #kept in the custody of a third party, take effect when a specified condition has been fulfilled.  
 10 __grand__:  grand :# a thousand dollars or pounds.  
 The __plaintiff__ was legally __entitled__ to register a __lien__ for the proper amount.  
+mortgage: a conveyance of or lien against property.   
 
 
 
