@@ -16,7 +16,10 @@ The __plaintiff__ was legally __entitled__ to register a __lien__ for the proper
 mortgage: a conveyance of or lien against property.   
 
 
-thrifty: 1.   2.   3.   
+- thrifty: 
+  > 1.frugal # using money or other resources carefully   
+  > 2. vigorous  
+  > 3.   
 
 vigorous:
 
