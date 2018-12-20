@@ -5,6 +5,10 @@
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2018.12.20
 
+trailer:   
+sketch: (v) make a rough drawing of  (n): a rough or unfinished drawing or painting, often made to assist in making a more finished picture.  
+
+
 ## 2018.12.19
 dilly-dally: waste time through aimless wandering or indecision.  
 
