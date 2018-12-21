@@ -3,6 +3,10 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.21
+exort: blackmail  
+exert: apply or bring to bear (an force or influence, or quality)
+
 ## 2018.12.20
 
 trailer:   
