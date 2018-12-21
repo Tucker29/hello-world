@@ -6,6 +6,9 @@
 ## 2018.12.21
 exort: blackmail  
 exert: apply or bring to bear (an force or influence, or quality)
+strand: 搁浅.  
+
+
 
 ## 2018.12.20
 
