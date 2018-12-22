@@ -8,7 +8,7 @@ anonymous: er non ni mers.    anonymous search query: ker ri z.
 
 eye candy:养眼  
 eyesore:眼中钉  
-facepalm: 网络词   **facepalm** =====傻眼=====
+facepalm: 网络词   \*facepalm\* =====傻眼=====
 make eyes at somebody:抛媚眼  
 roll one's eyes at somebody:翻白眼. 
 
