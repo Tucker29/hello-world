@@ -7,6 +7,7 @@
 exort: blackmail  
 exert: apply or bring to bear (an force or influence, or quality)
 strand: 搁浅.  
+entail: === mean, imply, suggest, indicate, represent.  
 
 
 
