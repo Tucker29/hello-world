@@ -3,6 +3,30 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.23
+anonymous: er non ni mers.    anonymous search query: ker ri z.  
+
+eye candy:养眼  
+eyesore:眼中钉  
+facepalm: 网络词   **facepalm** =====傻眼=====
+make eyes at somebody:抛媚眼  
+roll one's eyes at somebody:翻白眼. 
+
+
+## 2018.12.22
+dispatch: send; manage; 调度.  
+pertinent: relevant, applicate to particular matter.  
+erratic: not even or regular on pattern or movement.  
+blissfully: extremely happy.  
+omen: == sign.  
+implication: 意义.  
+in utilities:   
+derive:  
+pitfall:  
+acquisitions: the asset obtained by library or mesuem.  
+
+
+
 ## 2018.12.21
 exort: blackmail  
 exert: apply or bring to bear (an force or influence, or quality)
