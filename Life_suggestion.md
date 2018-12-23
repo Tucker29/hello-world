@@ -1,3 +1,11 @@
+- reading:
+  > biographies, self-help books
+  > history book
+  > professional literature
+  
+Wishlists: 2 weeks later, if you still think it's useful, then buy it.  
+
+
 我又走进了球场，但这次不再是为了赢，我会积极防守，然后防不住的 就随他去， 我不会再用篮球来证明自己，  对于带着女友来的球友，我会多给他球权， 如果是对手，我可能放点水.  这时我不在想着心强大， 看电影的时候，我想哭就会哭，不会因为被人说 娘，就不遵循内心的自己.  
 
 
