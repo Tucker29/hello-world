@@ -5,6 +5,11 @@
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2018.12.23
 anonymous: er non ni mers.    anonymous search query: ker ri z.  
+be prone to:  
+rigorous defination:  
+weave: woven  ##Internet is like digital fabric that's woven into the life of us all.  
+
+
 
 eye candy:养眼  
 eyesore:眼中钉  
