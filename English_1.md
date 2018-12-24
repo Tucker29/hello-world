@@ -3,6 +3,9 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.25
+
+
 ## 2018.12.24
 deception: 骗局.  Ponzi scheme:庞氏骗局.  
 
