@@ -3,6 +3,10 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.24
+deception: 骗局.  
+
+
 ## 2018.12.23
 anonymous: er non ni mers.    anonymous search query: ker ri z.  
 be prone to:  
