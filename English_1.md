@@ -6,6 +6,9 @@
 ## 2018.12.25
 spin off: byproduct or incidential result of a large project.  # the commercial spin-off from defense research.  
 behemonths: 
+potent: powerful, effective, strong, predominant, overbearing, have great influence or effect.  
+pillar:   
+frugally:  living frugally--the 1st pillar of early entirement.  
 
 
 ## 2018.12.24
