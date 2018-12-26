@@ -4,7 +4,7 @@
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2018.12.27
-
+procrastinate: delay, put off.  
 
 ## 2018.12.26
 
