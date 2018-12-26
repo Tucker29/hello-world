@@ -3,6 +3,12 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.27
+
+
+## 2018.12.26
+
+
 ## 2018.12.25
 spin off: byproduct or incidential result of a large project.  # the commercial spin-off from defense research.  
 behemonths: 
