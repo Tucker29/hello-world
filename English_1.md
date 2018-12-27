@@ -15,7 +15,7 @@ tidy up the room:  tidy: 收拾.
 
 ## 2018.12.25
 spin off: byproduct or incidential result of a large project.  # the commercial spin-off from defense research.  
-behemonths: 
+behemonths:  
 potent: powerful, effective, strong, predominant, overbearing, have great influence or effect.  
 pillar:   
 frugally:  living frugally--the 1st pillar of early entirement.  
