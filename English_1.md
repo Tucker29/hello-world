@@ -7,6 +7,10 @@
 procrastinate: delay, put off.  
 
 ## 2018.12.26
+sleeves:  
+shelves:
+gloves:  
+tidy up the room:  tidy: 收拾.  
 
 
 ## 2018.12.25
