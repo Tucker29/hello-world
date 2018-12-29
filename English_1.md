@@ -1,5 +1,6 @@
 # English
 # 早起的时间：1.AI这类逻辑思考的东西(需要思考的东西)看AI的论文 2. 写作---思维导图  
+# conda install -c conda-forge keras=1.0.7
 # violation == 违反.  
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
