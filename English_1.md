@@ -3,6 +3,10 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.29
+I lost her deep_learning nanodegree.  
+
+
 ## 2018.12.28
 stationary: not moving or intended to move.  
 
