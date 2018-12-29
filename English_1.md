@@ -5,7 +5,8 @@
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2018.12.29
 I lost her deep_learning nanodegree.  
-populate: 填充.  
+populate: 填充.  populate rgb_threshold  with these values.  
+
 
 
 ## 2018.12.28
