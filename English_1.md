@@ -3,6 +3,9 @@
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.30
+学豆教育：昨天交了800定金，今天测试水平：初级入门， elementary ， integ
+
 ## 2018.12.29
 I lost her deep_learning nanodegree.  
 populate: 填充.  populate rgb_threshold  with these values.  
