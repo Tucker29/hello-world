@@ -1,3 +1,6 @@
+# Do it consistently  
+__*Real love is delivered with genuine consitency.  
+Share with someone you love and appreciate.*__
 # English
 # 早起的时间：1.AI这类逻辑思考的东西(需要思考的东西)看AI的论文 2. 写作---思维导图  
 # conda install -c conda-forge keras=1.0.7
@@ -16,6 +19,14 @@ seal the deal: to come to an agreement.
 craft a solution: 制定解决方案.  
 6 ways timid, reserved women can confidently climb the coporate ladder.  
 business genre: genre===type.  
+
+innocuous and useless:  
+instill: gradually but firmly eastablish (an attitude or idea, especially a desirable one) in a person's mind.  ==implant.  
+I instill in them, every day, that I will take care of them with one purpose.  
+Here is the folly: Courage is not some deep internal fortitude.  
+
+__*Real love is delivered with genuine consitency.  
+Share with someone you love and appreciate.*__  
 
 
 ## 2018.12.29
