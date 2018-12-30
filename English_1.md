@@ -8,6 +8,7 @@
 ## 2018.12.30
 学豆教育：昨天交了800定金，今天测试水平：初级入门， elementary ， integ
 elaborate: express, narrate in detail, present or develop (an theory or policy, system) in detail.  
+sign language: for deaf people. kinesics.  
 
 
 
