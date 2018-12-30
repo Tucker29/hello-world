@@ -24,6 +24,12 @@ innocuous and useless:
 instill: gradually but firmly eastablish (an attitude or idea, especially a desirable one) in a person's mind.  ==implant.  
 I instill in them, every day, that I will take care of them with one purpose.  
 Here is the folly: Courage is not some deep internal fortitude.  
+bicker: argue about petty and trivial matters.  
+we will fight internally, we'll bicker with each other, but nobody is gonna hurt each other. and if anything from the outside shows up, you're looking as a unified front.  ## Brother and Sisters.  
+we are highly attuned animals.  
+__fortitude__: courage in pain and adversity.  
+adversity:  
+
 
 __*Real love is delivered with genuine consitency.  
 Share with someone you love and appreciate.*__  
