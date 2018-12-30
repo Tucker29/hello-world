@@ -9,8 +9,13 @@
 学豆教育：昨天交了800定金，今天测试水平：初级入门， elementary ， integ
 elaborate: express, narrate in detail, present or develop (an theory or policy, system) in detail.  
 sign language: for deaf people. kinesics.  
-
-
+shove: a strong push.  
+prospect: a person of potential customer, client. or a person is likey to succed.  
+hype: 炒作. extravagant or intensive publicity or promotion.    
+seal the deal: to come to an agreement.  
+craft a solution: 制定解决方案.  
+6 ways timid, reserved women can confidently climb the coporate ladder.  
+business genre: genre===type.  
 
 
 ## 2018.12.29
