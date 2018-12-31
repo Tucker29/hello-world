@@ -8,6 +8,10 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2018.12.31
+
+
+
 ## 2018.12.30
 学豆教育：昨天交了800定金，今天测试水平：初级入门， elementary ， integ
 elaborate: express, narrate in detail, present or develop (an theory or policy, system) in detail.  
