@@ -9,6 +9,20 @@ Share with someone you love and appreciate.*__
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2018.12.31
+cogs:  
+projection:  
+depreciation:  
+EBIT: earnings before interest and taxes.  
+Margin: deposit an amount of money with a broker as an security for (an account or transanction.)  
+pertain: be approriate, be relevant, be applicable.  
+weather the storm:  读过难关.  
+herd mentality:    herd:    
+delirious:  
+nickel: a five-cent coin.  
+
+
+
+
 
 
 
