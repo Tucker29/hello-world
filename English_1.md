@@ -8,6 +8,12 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2019.1.2
+endorsement: an act of giving one's public support or approval to sb/sth.  
+
+
+## 2019.1.1
+
 ## 2018.12.31
 cogs:  
 projection:  
