@@ -1,3 +1,6 @@
+# public promising  
+# no more excuse  
+# 2080 3个年度目标，  
 # Do it consistently  
 __*Real love is delivered with genuine consitency.  
 Share with someone you love and appreciate.*__
