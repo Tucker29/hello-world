@@ -17,6 +17,17 @@ Share with someone you love and appreciate.*__
 ## 2019.1.6
 深度学习的帐号又被改了.  
 rubric: a heading on a cocument.  
+paraphrase: decode.  
+lay the cornerstone for the original VolksWagen.  
+aesthetic:  
+Chevrolet:  Fiat:  
+quirk: a peculiar behavioral habit.  2.(v) (with reference to a the mouth or eyebrow of sb) to express surprise or amusement.  
+the one-in-a-lifetime: 千载难逢.  
+lesser-known: not as well or widely known as others of the same kind.  
+prelude:  
+weave textile:  
+
+
 
 
 ## 2019.1.5
