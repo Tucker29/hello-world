@@ -14,6 +14,10 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
+## 2019.1.7
+起来了　今天　　开始学豆的第一天.  
+
+
 ## 2019.1.6
 深度学习的帐号又被改了.  
 rubric: a heading on a cocument.  
