@@ -16,6 +16,7 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2019.1.7
 起来了　今天　　开始学豆的第一天.  
+contour: an outline. especially one representing or bounding the shape or form of sth.  2.(v)mold into a specific shape, typically one designed to fit into something else.  
 
 
 ## 2019.1.6
