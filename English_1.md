@@ -16,6 +16,7 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2019.1.6
 深度学习的帐号又被改了.  
+rubric: a heading on a cocument.  
 
 
 ## 2019.1.5
