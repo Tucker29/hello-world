@@ -1,3 +1,4 @@
+# AI(trading)  商业数据分析  Flutter  Go  
 # public promising  
 # no more excuse  
 # 2080 3个年度目标， 
