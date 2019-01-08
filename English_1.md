@@ -18,6 +18,7 @@ Share with someone you love and appreciate.*__
 ## 2019.1.7
 起来了　今天　　开始学豆的第一天.  
 contour: an outline. especially one representing or bounding the shape or form of sth.  2.(v)mold into a specific shape, typically one designed to fit into something else.  
+enunciated: say or pronounce clearly.  
 
 
 ## 2019.1.6
