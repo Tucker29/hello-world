@@ -19,6 +19,10 @@ Share with someone you love and appreciate.*__
 Dopamine boost: sth is a dopamine boost.  get powerful.  
 Dopamine: happy harmone.  
 self-introspection:  
+delegate: divide the task to someone else.  
+
+
+
 
 ## 2019.1.12
 get up early: at 4:00.  
