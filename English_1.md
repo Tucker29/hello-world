@@ -21,6 +21,7 @@ Dopamine: happy harmone.
 self-introspection:  
 delegate: divide the task to someone else.  
 superstitious: have faith in superstitions.  
+hindering you from...   
 
 
 
