@@ -20,6 +20,7 @@ Dopamine boost: sth is a dopamine boost.  get powerful.
 Dopamine: happy harmone.  
 self-introspection:  
 delegate: divide the task to someone else.  
+superstitious: have faith in superstitions.  
 
 
 
