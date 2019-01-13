@@ -1,3 +1,4 @@
+## 1.repeation  2. talk to yourself in the mirror.  
 # AI(trading)  商业数据分析  Flutter  Go  
 # public promising  
 # no more excuse  
