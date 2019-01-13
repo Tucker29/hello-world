@@ -18,7 +18,7 @@ Share with someone you love and appreciate.*__
 ## 2019.1.13
 Dopamine boost: sth is a dopamine boost.  get powerful.  
 Dopamine: happy harmone.  
-
+self-introspection:  
 
 ## 2019.1.12
 get up early: at 4:00.  
