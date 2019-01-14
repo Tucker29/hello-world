@@ -17,7 +17,15 @@ Share with someone you love and appreciate.*__
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2019.1.14
+结构化思维：结果性思考：3个科学家，热气球.  
+分类：
+思维能力的训练：
+表达能力的训练：
 
+- 总结
+  > 一切以结果为导向
+  > 万事万物皆可分类
+  > 成功源于抓住关键
 
 
 ## 2019.1.13
