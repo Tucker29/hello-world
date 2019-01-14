@@ -36,6 +36,7 @@ delegate: divide the task to someone else.
 superstitious: have faith in superstitions.  
 hindering you from...   
 
+cozy: give a feeling of comfort, warmth and relaxtion.  
 
 
 
