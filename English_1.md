@@ -18,6 +18,7 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2019.1.15
 legion:  
+in a crowded, stuffy room.  
 
 
 
