@@ -23,6 +23,7 @@ todolist:
 
 change： focus on the AI course and English.  
 highfalutin goals:  
+novice: a beginner or inexperienced in a field or a situation.  
 
 
 
