@@ -21,6 +21,7 @@ todolist:
 现象：做一会儿这个  又做一会儿那个.  
 
 change： focus on the AI course and English.  
+highfalutin goals:  
 
 
 
