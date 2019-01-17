@@ -1,9 +1,9 @@
+# 2080 3个年度目标: everythin in English. : thinking, learning materials, notes.  
 ## self-discipline always believe it's okay to do it for a while this time. always put off what you should do.   
 ## 1.repeation  2. talk to yourself in the mirror.  
 # AI(trading)  商业数据分析  Flutter  Go  
 # public promising  
-# no more excuse  
-# 2080 3个年度目标， 
+# no more excuse   
 # 每天晚上写出明天要做事情的安排，做能够带来80%结果的事情.  
 # 成功日志：自我总结，修正一天的行为.  
 
