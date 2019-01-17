@@ -18,6 +18,11 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.
 ## 2019.1.17
 todolist: 
+现象：做一会儿这个  又做一会儿那个.  
+
+change： focus on the AI course and English.  
+
+
 
 ## 2019.1.16
 mushroom:  
