@@ -1,4 +1,4 @@
-# 2080 3个年度目标: everythin in English. : thinking, learning materials, notes.  
+# 20~80 three annual targets: everythin in English. : thinking, learning materials, notes.  
 ## self-discipline always believe it's okay to do it for a while this time. always put off what you should do.   
 ## 1.repeation  2. talk to yourself in the mirror.  
 # AI(trading)  商业数据分析  Flutter  Go  
