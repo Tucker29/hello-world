@@ -1,3 +1,4 @@
+## self-discipline always believe it's okay to do it for a while this time. always put off what you should do.   
 ## 1.repeation  2. talk to yourself in the mirror.  
 # AI(trading)  商业数据分析  Flutter  Go  
 # public promising  
