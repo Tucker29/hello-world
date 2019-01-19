@@ -16,7 +16,11 @@ Share with someone you love and appreciate.*__
 # violation == 违反.  
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
-# Janpanese culture of Kaizan.  #Single minute principle.
+# Janpanese culture of Kaizan.  #Single minute principle.  
+## 2019.1.19
+潘翔宇：生日  
+
+
 ## 2019.1.18
 kindred:  
 corny: 
