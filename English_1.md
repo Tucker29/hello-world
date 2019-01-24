@@ -19,6 +19,10 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.1.24
 entrench: establish (an atitude, habit, belief) so firmly that change is very difficult or unlikely.  
+vogue:  
+vague:  
+introvert:  
+reticent: silent.  
 
 
 
