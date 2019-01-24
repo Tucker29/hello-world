@@ -17,6 +17,11 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
+## 2019.1.24
+entrench: establish (an atitude, habit, belief) so firmly that change is very difficult or unlikely.  
+
+
+
 ## 2019.1.23
 fiancee:  
 corny:  
