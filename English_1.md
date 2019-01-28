@@ -17,6 +17,13 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
+
+## 2019.1.29
+
+
+## 2019.1.28
+
+
 ## 2019.1.27
 厉害的人之所以能一针见血： 1.他们经历的比其他人多， 2.他们善于总结.  
 环境很重要： 环境---->能够提升认知.  
