@@ -18,6 +18,7 @@ Share with someone you love and appreciate.*__
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.2.3
+whiz: a person who is very clever at something.  
 
 
 ## 2019.2.2
