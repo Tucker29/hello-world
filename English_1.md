@@ -19,6 +19,9 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.2.3
 whiz: a person who is very clever at something.  
+karate:  
+holding a pose:  
+carpenter:  
 
 
 ## 2019.2.2
