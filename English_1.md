@@ -17,7 +17,8 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
-##
+## 2019.2.14
+
 
 ## 2019.2.10
 生日是真的无聊：　自私：　　三家都是这样．　
