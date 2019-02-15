@@ -28,6 +28,57 @@ appliance: 1. (n)device  2. the appliance of science could increase crop yields.
 yield: 1.(n)full amount of agricultural or industrial product.  2.(v) provide or produce // surrender, give way to pressure, demands or argument.  
 
 
+far cry 
+天壤之别
+你来到一个新环境，但是所受到的待遇跟从前没得比，这时候可以这样说：
+This treatment is a far cry from the one we received before.
+这种待遇和我们从前所受的待遇有天壤之别。
+
+A far cry from something, 意思是跟某件事情相差甚远。
+如果你想拥有你从未拥有过的东西，你就要做从未努力过的事情。
+
+If you work hard, the life in your future is a far cry from what's at now. 
+如果你努力工作，你未来的生活会与你现在的生活大不相同的。
+
+“早睡早起”的地道表达
+早睡早起=keep early hours
+“早睡早起身体好”这么说
+Keeping early hours is a good way to stay healthy. 
+
+"今天早点睡"怎么说？
+have an early night=早睡
+例句  
+I'd better have an early night if I want to get up at 6 o' clock.
+要想明早6点就起，我今天就得早睡。
+
+"熬夜"和"失眠"英文怎么说？
+熬夜=stay up late
+例句  
+He was a night owl and used to stay up late.
+他以前是个夜猫子，常常熬夜。 
+
+"我失眠了"这么说
+I was up all night.
+我整夜都醒着。
+
+I didn't sleep a wink last night.
+我昨天一夜没合眼。
+
+I tossed and turned in bed last night.
+我昨夜辗转难眠。
+
+
+当你深深迷恋对方不可自拔时，你可以说：
+I was infatuated with you at first glance.
+我第一次看见你时，就已经深深地为你着迷了。
+
+当你想要表达这份感情简直上天注定时，你可以说：
+We are meant to be together.我们命中注定要在一起。
+
+当你想要使用电影台词抒发自己的爱意时，你可以试着使用这一句：
+It's like in that moment, the whole universe existed just to ring us together.就在此刻，整个宇宙就像是为了让我们相遇而存在。
+
+
 ## 2019.2.14
 
 
