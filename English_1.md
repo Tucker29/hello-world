@@ -23,6 +23,10 @@ stand sb up: I don't have the guts to stand you up.
 
 retail investor:  
 
+reform and openness:  
+appliance: 1. (n)device  2. the appliance of science could increase crop yields.  
+yield: 1.(n)full amount of agricultural or industrial product.  2.(v) provide or produce // surrender, give way to pressure, demands or argument.  
+
 
 ## 2019.2.14
 
