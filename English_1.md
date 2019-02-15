@@ -17,6 +17,11 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
+## 2019.2.16
+what does a __newbie__ need to practice?  
+emulate: match or surpass by imitation.  
+
+
 ## 2019.2.15
 deputy: a person whose immediate superior is a senior figure within an organization and who is enpowered to act as a substitute for this superior.  
 stand sb up: I don't have the guts to stand you up.  
