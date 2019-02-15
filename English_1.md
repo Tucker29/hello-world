@@ -21,6 +21,8 @@ Share with someone you love and appreciate.*__
 deputy: a person whose immediate superior is a senior figure within an organization and who is enpowered to act as a substitute for this superior.  
 stand sb up: I don't have the guts to stand you up.  
 
+retail investor:  
+
 
 ## 2019.2.14
 
