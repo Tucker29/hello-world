@@ -19,6 +19,7 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.2.15
 deputy: a person whose immediate superior is a senior figure within an organization and who is enpowered to act as a substitute for this superior.  
+stand sb up: I don't have the guts to stand you up.  
 
 
 ## 2019.2.14
