@@ -20,6 +20,7 @@ Share with someone you love and appreciate.*__
 ## 2019.2.16
 what does a __newbie__ need to practice?  
 emulate: match or surpass by imitation.  
+bath with Pan last night.  
 
 
 ## 2019.2.15
