@@ -22,6 +22,11 @@ zebra crossing:
 nutrients:  
 foodie/gourmet:  
 chef/ head chef/ 
+default: failure to fulfill an obligation, especially to repay a loan or appear in a court of law.  
+it will have to restructure its debts to avoid default.  
+
+
+
 
 ## 2019.2.16
 what does a __newbie__ need to practice?  
