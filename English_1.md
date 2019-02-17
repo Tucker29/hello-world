@@ -18,7 +18,10 @@ Share with someone you love and appreciate.*__
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.2.17
-
+zebra crossing:  
+nutrients:  
+foodie/gourmet:  
+chef/ head chef/ 
 
 ## 2019.2.16
 what does a __newbie__ need to practice?  
