@@ -20,6 +20,9 @@ Share with someone you love and appreciate.*__
 ## 2019.2.20
 latent:  discover her latent talent for diplomacy.  
 
+刻意维护的关系长久不了。  
+人和人之间想要保持长久舒适的关系，靠的是共性和吸引，而不是压迫，捆绑， 一味地付出以及道德式的自我感动。  
+
 
 
 ## 2019.2.19
