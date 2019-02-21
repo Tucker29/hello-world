@@ -17,6 +17,13 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
+## 2019.2.22
+
+sole:  
+rebound: bounce back through the air after hitting the hard surface or object.  
+
+
+
 ## 2019.2.20
 latent:  discover her latent talent for diplomacy.  
 
