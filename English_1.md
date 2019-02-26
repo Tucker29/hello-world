@@ -17,6 +17,10 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
+
+## 2019.2.26
+在学校里面，很多人根本不想学习，所以你想前50%太容易了，前20%也很简单，但是进入社会，太多人想往上爬。在学校里面，举个手就能当班长，公司里，各种派系斗争，互相甩锅，努力不一定有用，大部分情况下，把老板，客户舔舒服了，比奋斗有用的多。
+
 ## 2019.2.25
 
 
