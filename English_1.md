@@ -19,6 +19,7 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.3.2
 Capricorn:  
+retrieve: get sth back or bring sth back.  
 
 
 ## 2019.3.1
