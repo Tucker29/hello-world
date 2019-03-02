@@ -20,6 +20,7 @@ Share with someone you love and appreciate.*__
 ## 2019.3.2
 Capricorn:  
 retrieve: get sth back or bring sth back.  
+sit alone where u contemplate your own profound mediocrity.  
 
 
 ## 2019.3.1
