@@ -21,6 +21,7 @@ Share with someone you love and appreciate.*__
 Capricorn:  
 retrieve: get sth back or bring sth back.  
 sit alone where u contemplate your own profound mediocrity.  
+in line with: you will do sth in line with your expectations.  
 
 
 ## 2019.3.1
