@@ -19,6 +19,7 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.3.7  
 click: their personality doesn't click.  
+a premium-brand foutain pen.  
 
 
 ## 2019.3.6  
