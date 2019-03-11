@@ -1,4 +1,4 @@
-# 20~80 three annual targets: everythin in English. : thinking, learning materials, notes.  
+20~80 three annual targets: everythin in English. : thinking, learning materials, notes.  
 ## self-discipline always believe it's okay to do it for a while this time. always put off what you should do.   
 ## 1.repeation  2. talk to yourself in the mirror.  
 # AI(trading)  商业数据分析  Flutter  Go  
@@ -17,6 +17,9 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
+## 2019.3.11
+
+
 ## 2019.3.10
 blockbuster:  
 
@@ -35,9 +38,7 @@ beat sb to it.
 
 ## 2019.3.5
 
-
 ## 2019.3.4
-
 
 
 ## 2019.3.3
