@@ -18,6 +18,8 @@ Share with someone you love and appreciate.*__
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.3.12
+imminent: about to happen.  be in imminent danger of being swept away.  
+subtitle == caption.  a title or brief explanation.  
 
 
 ## 2019.3.11
