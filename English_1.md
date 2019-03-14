@@ -6,7 +6,7 @@
 # no more excuse   
 # 每天晚上写出明天要做事情的安排，做能够带来80%结果的事情.  
 # 成功日志：自我总结，修正一天的行为.  
-
+# 持续不断的输出自己的影响力； 培养自己的1000个铁杆粉丝
 # Do it consistently  
 __*Real love is delivered with genuine consitency.  
 Share with someone you love and appreciate.*__
