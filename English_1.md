@@ -19,6 +19,7 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.3.15
 leg-pull: a pratical joke or mild deception.  
+categorical: unambiguously explicit and direct.  
 
 
 ## 2019.3.14
