@@ -19,6 +19,8 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.3.30  
 projection: the presentation of an image on the surface, especially movie screen.  
+you know the drill, you scan the codes and something pops up on your phone, like a promotion or discount.  
+rehydrate: absorb or cause to absorb mositure after dehydration.  
 
 
 ## 2019.3.29
