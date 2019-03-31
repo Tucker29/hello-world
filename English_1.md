@@ -22,6 +22,7 @@ jaywalk: cross and walk in the street unlawfully or without regard for approachi
 gnarly： g不发音.  
 via VPN. an alternate internet connection that bypasses the government blocks.  
 prowess: the skill or expertise in a particular activity or field.  
+China tech prowess.  
 
 
 ## 2019.3.30  
