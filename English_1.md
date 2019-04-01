@@ -17,11 +17,17 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
+## 2019.
+
 ## 2019.4.1
 graffiti:  
 knit:  
 cost: 具体实物的价格.  
 fee: 支付给某人的费用.  
+roster: a list or plan showing turns of duty or leave for individual or group in a organization.  
+formidable: every team which comes into playoffs is formidable.  
+each and every player __on SKT's roster__ carry immense potential, I want to help them __unleash__ that potential during the playoffs.  
+
 
 
 
