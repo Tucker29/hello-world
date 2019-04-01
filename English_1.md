@@ -20,6 +20,10 @@ Share with someone you love and appreciate.*__
 ## 2019.4.1
 graffiti:  
 knit:  
+cost: 具体实物的价格.  
+fee: 支付给某人的费用.  
+
+
 
 
 ## 2019.3.31
