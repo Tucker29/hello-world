@@ -18,7 +18,9 @@ Share with someone you love and appreciate.*__
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.4.9
-不要用你的业余爱好去挑战别人的专业.  
+不要用你的业余爱好去挑战别人的专业.   
+
+## 融入外国圈子是难的。有一位留学生曾说由于文化差异，像个木头人一样不知所措，有些茫然。但还是努力克服了畏难情绪，本着“厚脸皮精神”和大家打成一片，所谓“丢脸”其实只是自己单方面的想法。
 
 
 ## 2019.4.8
