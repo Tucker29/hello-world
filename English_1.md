@@ -17,6 +17,17 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
+## 2019.4.10
+compartment:  
+conceal:  
+divine trick:  
+intact: so that the bill appears to be intact.  
+dov from a hat:  
+flap: a piece attached to one side in order to protect.  
+flip:  
+whatsoever == whatever.  
+
+
 ## 2019.4.9
 不要用你的业余爱好去挑战别人的专业.   
 
