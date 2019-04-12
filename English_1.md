@@ -19,6 +19,10 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.4.12
 reimburse you: 赔偿; 报销.  
+saw:  
+rinse them off:  rinse: wash sth with clean water to remove soap or dirt.  
+launder:  laundry:  
+he wasn't used to launder his linens.  
 
 
 
