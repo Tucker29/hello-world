@@ -19,6 +19,7 @@ Share with someone you love and appreciate.*__
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.4.13
 slot machine are like arcades.  
+I have to takeover. for teacher May had a power outage.  
 
 
 ## 2019.4.12
