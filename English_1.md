@@ -17,6 +17,8 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
+## 2019.4.14
+
 ## 2019.4.13
 slot machine are like arcades.  
 I have to takeover. for teacher May had a power outage.  
