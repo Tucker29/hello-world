@@ -22,7 +22,7 @@ Share with someone you love and appreciate.*__
 
 ## 2019.4.24
 It's not a lie, but a bluff.  
-red: 汽车, 环保, 甲醇, 园林, 眼药水, 柔性屏（深天马A，维信诺）   
+red: 汽车, 环保, 甲醇, 园林, 眼药水, 柔性屏（深天马A，维信诺）,国产软件(浪潮信息，浪潮软件)   
 green: 油服, 次新股(永冠新材，蔚蓝生物，上海瀚迅，金时科技).  
 
 
