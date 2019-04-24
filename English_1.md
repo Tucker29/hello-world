@@ -17,8 +17,13 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
+## 2019.4.25
+
+
 ## 2019.4.24
 It's not a lie, but a bluff.  
+red: 汽车, 环保, 甲醇, 园林,  
+green: 油服, 次新股(永冠新材，蔚蓝生物，上海瀚迅，金时科技).  
 
 
 ## 2019.4.23
