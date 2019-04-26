@@ -18,6 +18,8 @@ Share with someone you love and appreciate.*__
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.4.26
+red: 边缘计算, 云计算, 语音技术.  
+green: 养猪，其他基本全绿.  
 
 
 ## 2019.4.25
