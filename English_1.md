@@ -18,7 +18,7 @@ Share with someone you love and appreciate.*__
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
 ## 2019.4.29  
-red: 央企改革.  
+red: 央企改革. 超级品牌（白酒）,厨卫家电.  
 green: 工业大麻，化工，券商  
 
 
