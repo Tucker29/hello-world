@@ -17,6 +17,8 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
+# 到底什么时候应该拿钱买时间，什么时候应该拿时间换钱呢？
+# 这个取决于哪个资源更是当前的瓶颈，更是稀缺资源。
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
