@@ -17,8 +17,17 @@ Share with someone you love and appreciate.*__
 # suspicious === dubious, skeptical.
 # conviction: 1.belief/faith   2. a formal declaration of someone is guilty.
 # Janpanese culture of Kaizan.  #Single minute principle.  
-# 到底什么时候应该拿钱买时间，什么时候应该拿时间换钱呢？
-# 这个取决于哪个资源更是当前的瓶颈，更是稀缺资源。
+# “拿钱买时间”肯定是一个有用的认知，但最难的不在于是不是会拿钱买，难的是对绝大多数人而言钱是稀缺的，甚至比时间更稀缺。  
+
+# 因此，知道什么时候可以拿钱买时间(钱和时间哪个在当前更稀缺？)，如何买会更有价值(你买来的时间拿去干嘛呢？)，才是用好“拿钱买时间”这个认知的关键。
+什么时候买？如何聪明地买呢？两个方法：
+1. 买时间的钱一定要小于机会成本(指你如果不用这段时间做这件事，去做其它事可能带来的收益)。  
+考虑机会成本的话，也就意味着你还得判断，假如这段时间省下来了，你用这段时间创造的价值是否高于你为节省这段时间所付出的成本。  
+
+2. 用“满意决策模型”选择出一个合适的购买方式。
+用“满意决策模型” 而非“最优决策模型”的原因：  
+最优决策是从全部可行性方案中选出能实现目标的最优方案，但人受限于认知、能力、精力和时间等等限制，是不可能穷尽所有方案的，对于拿钱买时间这类决策，更是如此。
+
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
