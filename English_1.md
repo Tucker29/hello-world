@@ -31,6 +31,9 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.5.15
+
+
 ## 2019.5.14
 询问各部门情况，弄清会议目的，然后拿出两套解决方案（分别写明利弊），不能只拿一套方案，因为最后决定权要交到领导手中，避免喧宾夺主.  
 
