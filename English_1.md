@@ -31,7 +31,20 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+
+
 ## 2019.5.21
+using English to describe the particular scene.  
+
+I'm gonna take off.  (take off == leave).  
+I don't wanna rain on your parade. == I don't wanna be negative.  
+am I producing them?  producing 长着　生;  
+
+
+
+
+do things that you can remember and can be measured as achievement.  
+record that.  
 
 
 ## 2019.5.17
