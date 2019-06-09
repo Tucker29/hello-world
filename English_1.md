@@ -31,6 +31,11 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.6.9
+生气是拿别人做错的事来惩罚自己.  
+The angry is that taking the other's mistake to punish oneself.  
+
+
 ## 2019.6.6
 买基本面良好的股票；不要买题材股（题材股有庄家，通过一定的策略让你一直输钱）.  
 
