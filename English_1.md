@@ -35,6 +35,8 @@ Share with someone you love and appreciate.*__
 生气是拿别人做错的事来惩罚自己.  
 The angry is that taking the other's mistake to punish oneself.  
 
+you have to temporarily put your plans on hold, you make sure it is your top priority to get back on the track.  
+
 
 ## 2019.6.6
 买基本面良好的股票；不要买题材股（题材股有庄家，通过一定的策略让你一直输钱）.  
