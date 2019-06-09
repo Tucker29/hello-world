@@ -37,6 +37,7 @@ The angry is that taking the other's mistake to punish oneself.
 
 you have to temporarily put your plans on hold, you make sure it is your top priority to get back on the track.  
 独立思考. 你的前面二十几年都是被生活推着，没有自己的一份计划安排，只知道一味的问别人，没有自己去探索.  
+所以　被问到　是detail-oriental 还是　big piture　你都不知道自己到底是什么人.  
 
 
 ## 2019.6.6
