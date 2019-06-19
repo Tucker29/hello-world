@@ -31,6 +31,10 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.6.20
+晒被子：用黑色方便袋，加热晒。   600000000个螨虫（一个月不洗的话）.  
+
+
 ## 2019.6.19
 __误区__: 读博比工作轻松  
 读博：比工作更累三倍，如果没有兴趣热忱，完全读不下来；
