@@ -31,6 +31,16 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.6.19
+__误区__: 读博比工作轻松  
+读博：比工作更累三倍，如果没有兴趣热忱，完全读不下来；
+导师非常重要，很很多多太压抑，得郁抑症，自杀，选导师前一定要了解这个导师之后再做决定。
+已经不能算是学生，其实已经类似职场人  
+有兴趣，但没热忱，和导师兴趣点和期望值不在一个次元上，交流上存在问题，所以在面对每周一次的进展报告时，我两总是“不欢而散”。  
+
+老余串讲：俞敏洪 GRE单词
+
+
 ## 2019.6.18
 
 
