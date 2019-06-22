@@ -31,6 +31,12 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.6.23
+
+
+complement:补充  
+compliment:恭维
+
 ## 2019.6.20
 晒被子：用黑色方便袋，加热晒。   600000000个螨虫（一个月不洗的话）.  
 
