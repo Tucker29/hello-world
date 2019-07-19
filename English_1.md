@@ -34,6 +34,9 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.7.19
+
+
 ## 2019.7.17
 I love the cat:  
 I love cats:    不要说I love cat:我爱吃猫肉  同样的有：I love dogs.  
