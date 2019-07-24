@@ -34,6 +34,13 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.7.24
+immigrate as leaving  
+emigrate as arriving  
+who grow up in France and lives in Spain.  
+emigrated from France and immigrated to Spain.  
+
+
 ## 2019.7.23
 so beautiful, so radiant, so irresistible  == so gorgeous, so glowing, so alluring.  
 susceptible: easy to be influenced.  
