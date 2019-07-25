@@ -35,7 +35,7 @@ Share with someone you love and appreciate.*__
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
 ## 2019.7.25
-__the bucks stop here / the bucks stop with me.__ ===you will take reponsibility for sth and will not pass the responsibility on to someone else.  
+__*the bucks stop here / the bucks stop with me.*__ ===you will take reponsibility for sth and will not pass the responsibility on to someone else.  
 
 
 ## 2019.7.24
