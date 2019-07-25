@@ -38,6 +38,7 @@ Share with someone you love and appreciate.*__
 __*the bucks stop here / the bucks stop with me.*__ ===you will take reponsibility for sth and will not pass the responsibility on to someone else.  
 overhaul the cabinet.  
 chancellor:  
+prevalence: Melona is rising in prevalence.  
 
 
 ## 2019.7.24
