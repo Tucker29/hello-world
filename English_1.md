@@ -36,6 +36,8 @@ Share with someone you love and appreciate.*__
 # the product to make the record convenient, epic and beautiful.  
 ## 2019.7.25
 __*the bucks stop here / the bucks stop with me.*__ ===you will take reponsibility for sth and will not pass the responsibility on to someone else.  
+overhaul the cabinet.  
+chancellor:  
 
 
 ## 2019.7.24
