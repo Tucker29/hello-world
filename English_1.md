@@ -2,6 +2,10 @@
 ## self-discipline always believe it's okay to do it for a while this time. always put off what you should do.   
 ## 1.repeation  2. talk to yourself in the mirror.  
 # AI(trading)  商业数据分析  Flutter  Go  
+***
+其实我们大多数中国人从小受到的教育就是要脚踏实地，勤勤恳恳，扎扎实实做事。炫耀，抢功，高调从来都不是我们的风格。我们的教育非常不重视沟通与交流，有效的表达，以及正确的取舍。“凡是做了事情，都是会有回报的”，这种鸡汤式的荒谬道理真的“坑害”了很多在美国工作的华人。很多时候，尤其是在大公司，“交流”其实远远比“做事”来的重要的多，但是很多华人都意识不到这个问题。几个高票答案说的非常好。要manage up! 而不是一味地埋头苦干。在这个利益至上，弱肉强食的美国社会，没人会为你的勤恳付出而感动。大家只崇拜和尊敬“看起来重要的人”，对的，就是这么肤浅，因为大家都很忙，没空去关心或者了解一个话都说不清楚的废物。
+***
+
 # public promising  
 # no more excuse   
 # Archer:　无论对于错，都没必要后悔，不要在就纠结过去（大学，ｔｚｙ）所以没什么好后悔的　　
