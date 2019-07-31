@@ -40,6 +40,8 @@ Share with someone you love and appreciate.*__
 # the product to make the record convenient, epic and beautiful.  
 ## 2019.7.31
 While Huawei has remained largely sanguine in the face of US pressure, it has already issued some warnings.  
+reignite the trade war with tariff hikes.  
+every sacred soul who suffer the horrors of slavery and the anguish of bondage.  
 
 
 ## 2019.7.30
