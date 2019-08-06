@@ -38,6 +38,9 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.8.7
+veritable:
+
 ## 2019.7.31
 While Huawei has remained largely sanguine in the face of US pressure, it has already issued some warnings.  
 reignite the trade war with tariff hikes.  
