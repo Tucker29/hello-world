@@ -38,6 +38,10 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.8.24
+toe:jio趾   foe:enemy.  
+
+
 ## 2019.8.16
 Sweden  Switzerland
 
