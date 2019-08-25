@@ -38,6 +38,9 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.8.25
+backstop: a person or thing placed at the rear of or behind something as a barrier, support or reinforcement.  
+
 ## 2019.8.24
 toe:jio趾   foe:enemy.  
 
