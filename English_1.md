@@ -38,6 +38,12 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.8.26
+million to one: the odds 比率. 这个表达一定是 ... to one.    
+one in a million: something is very special.  
+
+The odds of winning that contest are a __million to one__.
+
 ## 2019.8.25
 backstop: a person or thing placed at the rear of or behind something as a barrier, support or reinforcement.  
 
