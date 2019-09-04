@@ -38,6 +38,13 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.9.4
+mundane: 1. dull, lack interest or excitement.  2. 现世的. relative to the ordinary world.   
+repetitive: contain or characterized by repetition, especially when tiresome or unnecessary.  
+askance: with a look of suspicion or disapproval.  
+
+
+
 ## 2019.9.3
 chicken chop:  
 exude: discharge (smell or moisture) 散发出.  
