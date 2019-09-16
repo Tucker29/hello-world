@@ -38,6 +38,29 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.9.17
+1. IDYLLIC - happy, peaceful, pictureque (adjective)
+2. CIRCUMVENT - to get around something (verb)
+3. OBSEQUIOUS - excessively submissive (adjective)
+4. BEGUILE - to attract or interest someone (verb)
+5. FECKLESS - someone who is irresponsible or ineffective (adjective)
+6. UNCTUOUS - not expressing true feelings (adjective)
+7. STATUS QUO - the way things are (noun)
+8. PARTISAN - prejudiced in favor of a particular cause (adj.)
+9. ALBEIT - even though, although (conjunction)
+10. SEDULOUS - diligent, hard working and persistent (adj.)
+11. DICHOTOMY - a difference between two opposite things or ideas (noun)
+12. SERAPHIC - angelic and stunning (adj.)
+13. ADULATION - great praise for someone, often more than what is deserved (noun)
+14. JEJUNE - unsophisticated; simplistic (adjective)
+15. ATTRITION - a decrease in the number of staff or personnel as a result of replacements not been hired when employees leave (noun)
+16. VORACIOUS -  having a large appetite; greedy (adj.)
+17.  TITULAR - having a completely arbitrary position that is of no real power or authority (adj.)
+18. RESPITE - brief interval of rest or relief (noun)
+19. ENCOMIUM - speech or piece of writing that warmly praises something; a tribute (noun)
+20. BELIE - to give a false impression of (verb)  
+
+
 ## 2019.9.16
 commute: my daily commute
 get a motorcycle lopped a ton of times off of my daily commute.  
