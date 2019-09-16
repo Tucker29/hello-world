@@ -38,6 +38,24 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+## 2019.9.16
+commute: my daily commute
+get a motorcycle lopped a ton of times off of my daily commute.  
+
+run the mill: ordinary but not special or exciting in any way.  
+we run out to see them live, but it was just a run the mill concert.  
+
+short notice: if sth is short notice, you are just told shortly before it happens.  
+thank you so much for coming __on such a short notice__.  在这么短时间内通知。  
+sorry to show up here __with such short notice__, I just really need to talk to you.  
+
+practice medicine/law/  
+
+to be stumped:  
+hard to answer.  
+
+
+
 ## 2019.9.4
 mundane: 1. dull, lack interest or excitement.  2. 现世的. relative to the ordinary world.   
 repetitive: contain or characterized by repetition, especially when tiresome or unnecessary.  
