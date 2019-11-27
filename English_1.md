@@ -38,6 +38,11 @@ Share with someone you love and appreciate.*__
 # time and mind: (what you have)  
 # to record achievement and experience(that's what you want)  
 # the product to make the record convenient, epic and beautiful.  
+
+## 2019.11.27
+prairie: 
+prate:
+
 ## 2019.9.17
 1. IDYLLIC - happy, peaceful, pictureque (adjective)
 2. CIRCUMVENT - to get around something (verb)
